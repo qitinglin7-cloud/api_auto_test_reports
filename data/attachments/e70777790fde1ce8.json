@@ -1,0 +1,53 @@
+{
+  "status_code": 200,
+  "body": {
+    "status": {
+      "code": 0,
+      "msg": "OK"
+    },
+    "data": [
+      {
+        "id": 5847,
+        "page": {
+          "from": 0,
+          "pageNo": 1,
+          "pageSize": -1,
+          "count": 0,
+          "needCount": true,
+          "first": 0,
+          "last": 0,
+          "prev": 0,
+          "next": 2,
+          "firstPage": false,
+          "lastPage": false,
+          "list": [],
+          "orderBy": "",
+          "funcName": "page",
+          "funcParam": "",
+          "disabled": true,
+          "maxResults": -1,
+          "html": "<ul>\n<li><a href=\"javascript:\" onclick=\"page(0,-1,'');\">&#171; 上一页</a></li>\n<li><a href=\"javascript:\" onclick=\"page(0,-1,'');\">1</a></li>\n<li><a href=\"javascript:\" onclick=\"page(0,-1,'');\">下一页 &#187;</a></li>\n<li class=\"disabled controls\"><a href=\"javascript:\">当前 <input type=\"text\" value=\"1\" onkeypress=\"var e=window.event||this;var c=e.keyCode||e.which;if(c==13)page(this.value,-1,'');\" onclick=\"this.select();\"/> / <input type=\"text\" value=\"-1\" onkeypress=\"var e=window.event||this;var c=e.keyCode||e.which;if(c==13)page(1,this.value,'');\" onclick=\"this.select();\"/> 条，共 0 条</a></li>\n</ul>\n<div style=\"clear:both;\"></div>",
+          "totalPage": 0,
+          "notCount": false,
+          "firstResult": 0
+        },
+        "is_new_record": false,
+        "sch_id": 2,
+        "create_by": 1,
+        "create_date": 1443596545000,
+        "update_by": 506,
+        "update_date": 1618300645000,
+        "del_flag": "0",
+        "parent_id": 5846,
+        "parent_ids": "0,5597,5846,",
+        "name": "会计",
+        "sort": 1,
+        "ip": "121.32.89.35",
+        "level": 3,
+        "alias": "会计"
+      }
+    ],
+    "attachments": {},
+    "success": true
+  }
+}

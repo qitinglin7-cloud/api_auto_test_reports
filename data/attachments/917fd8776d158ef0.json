@@ -1,0 +1,12 @@
+{
+  "status_code": 200,
+  "body": {
+    "status": {
+      "code": 40042,
+      "msg": "无效的token"
+    },
+    "data": null,
+    "attachments": {},
+    "success": false
+  }
+}

@@ -1,0 +1,6 @@
+INFO     utils.request_util:request_util.py:29 POST https://api.hqwx.com/phpapi/user/login?r=/callback.html | params=None | body={'uInfo': '11014714714', 'pwd': '123456', 'orgId': '2', 'platform': 'web', 'appId': 'wwwedu24ol', 'chId': '0', 'hostName': 'www.hqwx.com', 'commentCookie': '95278a73e7e6ec9b4dc60cbb4ad4f5463699008a09b6132672bec976519db975b1e4b1d217bf81ac9fbc4b840de09bceed8348ec079ee021f73a715fa8045ca0', 'lastPType': '10', 'lastUrl': 'https://www.hqwx.com/', 'trafficUuid': 'be23e0d2-4709-447c-a546-2ab980fd4967', 'traceInfo': 'sadid=103453390', 'gid': ''}
+INFO     utils.request_util:request_util.py:38 Response 302: <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="refresh" content="1;url=https://www.hqwx.com/callback.html?status=1&amp;id=103453390&amp;name=hq_103453390&amp;passport=3482fe0c87cf0548b8768ab329a8f46cbc3b0fd4ebd558c2cf72e4eb4067b67bb2590156579702021fe7289fe53a24367c41b48d835245cf286c2532b2dee4bda23815579ea45b2f7c136d3ec64f7e307a&amp;token=e385554891285ad00d83a262599f88929b909ee4605a043425bc31f9bea7c410a684b5f67bd00f815d712d06ca0dc365e94dc0b3350f9214fc

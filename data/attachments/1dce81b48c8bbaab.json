@@ -1,0 +1,12 @@
+{
+  "status_code": 200,
+  "body": {
+    "status": {
+      "code": 40043,
+      "msg": "用户没有权限",
+      "tips": "用户没有权限"
+    },
+    "data": null,
+    "success": false
+  }
+}

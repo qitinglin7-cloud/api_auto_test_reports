@@ -1,0 +1,22 @@
+{
+  "method": "POST",
+  "url": "https://api.hqwx.com/phpapi/user/login?r=/callback.html",
+  "data": {
+    "uInfo": "11014714714",
+    "pwd": "123456",
+    "orgId": "2",
+    "platform": "web",
+    "appId": "wwwedu24ol",
+    "chId": "0",
+    "hostName": "www.hqwx.com",
+    "commentCookie": "95278a73e7e6ec9b4dc60cbb4ad4f5463699008a09b6132672bec976519db975b1e4b1d217bf81ac9fbc4b840de09bceed8348ec079ee021f73a715fa8045ca0",
+    "lastPType": "10",
+    "lastUrl": "https://www.hqwx.com/",
+    "trafficUuid": "be23e0d2-4709-447c-a546-2ab980fd4967",
+    "traceInfo": "sadid=103453390",
+    "gid": ""
+  },
+  "timeout": 10,
+  "verify": false,
+  "allow_redirects": false
+}
