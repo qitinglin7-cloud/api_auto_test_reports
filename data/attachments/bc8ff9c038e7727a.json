@@ -1,0 +1,3647 @@
+{
+  "status_code": 200,
+  "body": {
+    "status": {
+      "code": 0,
+      "msg": "OK",
+      "tips": "OK"
+    },
+    "data": [
+      {
+        "id": 145740,
+        "name": "第1章-总论",
+        "level": 1,
+        "chapterId": 145740,
+        "chapterName": "第1章-总论",
+        "finishQuestionCount": 9,
+        "finishQuestionIdList": [
+          3841758,
+          3023467,
+          3023131,
+          3022137,
+          3023045,
+          3023093,
+          3841846,
+          3023043,
+          3545657
+        ],
+        "questionCount": 16,
+        "questionIdList": [
+          3841758,
+          3580467,
+          3023467,
+          3023044,
+          3023045,
+          3841846,
+          3333375,
+          3023043,
+          3106945,
+          3545657,
+          3112829,
+          3023131,
+          3022137,
+          3580492,
+          3842049,
+          3023093
+        ],
+        "noFinishQuestionIdList": [
+          3580467,
+          3023044,
+          3333375,
+          3106945,
+          3112829,
+          3580492,
+          3842049
+        ],
+        "rightQuestionCount": 4,
+        "rightQuestionIdList": [
+          3841758,
+          3022137,
+          3023093,
+          3545657
+        ],
+        "correctRate": 25.0,
+        "errorQuestionIdList": [
+          3580467,
+          3023467,
+          3023044,
+          3023045,
+          3841846,
+          3023043,
+          3106945,
+          3545657,
+          3112829,
+          3023131,
+          3022137,
+          3580492,
+          3023093,
+          3842049
+        ],
+        "allQuestionCount": 16,
+        "allQuestionIdList": [
+          3841758,
+          3580467,
+          3023467,
+          3023044,
+          3023045,
+          3841846,
+          3333375,
+          3023043,
+          3106945,
+          3545657,
+          3112829,
+          3023131,
+          3022137,
+          3580492,
+          3842049,
+          3023093
+        ],
+        "children": [
+          {
+            "id": 145742,
+            "name": "第2节-财务报告目标、会计基本假设和会计基础",
+            "level": 2,
+            "chapterId": 145742,
+            "chapterName": "第2节-财务报告目标、会计基本假设和会计基础",
+            "finishQuestionCount": 1,
+            "finishQuestionIdList": [
+              3023045
+            ],
+            "questionCount": 3,
+            "questionIdList": [
+              3023045,
+              3333375,
+              3106945
+            ],
+            "noFinishQuestionIdList": [
+              3333375,
+              3106945
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [
+              3023045,
+              3106945
+            ],
+            "allQuestionCount": 3,
+            "allQuestionIdList": [
+              3023045,
+              3333375,
+              3106945
+            ],
+            "children": [
+              {
+                "name": "财务报告目标、会计基本假设和会计基础",
+                "level": 2,
+                "chapterName": "财务报告目标、会计基本假设和会计基础",
+                "knowledgeId": 222710,
+                "knowledgeName": "财务报告目标、会计基本假设和会计基础",
+                "finishQuestionCount": 1,
+                "finishQuestionIdList": [
+                  3023045
+                ],
+                "questionCount": 3,
+                "questionIdList": [
+                  3106945,
+                  3333375,
+                  3023045
+                ],
+                "noFinishQuestionIdList": [
+                  3106945,
+                  3333375
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [
+                  3023045,
+                  3106945
+                ],
+                "allQuestionCount": 3,
+                "allQuestionIdList": [
+                  3106945,
+                  3333375,
+                  3023045
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          },
+          {
+            "id": 145745,
+            "name": "第3节-会计信息质量要求",
+            "level": 2,
+            "chapterId": 145745,
+            "chapterName": "第3节-会计信息质量要求",
+            "finishQuestionCount": 4,
+            "finishQuestionIdList": [
+              3841758,
+              3023093,
+              3841846,
+              3023043
+            ],
+            "questionCount": 7,
+            "questionIdList": [
+              3841758,
+              3580467,
+              3023044,
+              3842049,
+              3023093,
+              3841846,
+              3023043
+            ],
+            "noFinishQuestionIdList": [
+              3580467,
+              3023044,
+              3842049
+            ],
+            "rightQuestionCount": 2,
+            "rightQuestionIdList": [
+              3841758,
+              3023093
+            ],
+            "correctRate": 29.0,
+            "errorQuestionIdList": [
+              3580467,
+              3023044,
+              3023093,
+              3842049,
+              3841846,
+              3023043
+            ],
+            "allQuestionCount": 7,
+            "allQuestionIdList": [
+              3841758,
+              3580467,
+              3023044,
+              3842049,
+              3023093,
+              3841846,
+              3023043
+            ],
+            "children": [
+              {
+                "name": "会计信息质量要求",
+                "level": 2,
+                "chapterName": "会计信息质量要求",
+                "knowledgeId": 165879,
+                "knowledgeName": "会计信息质量要求",
+                "finishQuestionCount": 4,
+                "finishQuestionIdList": [
+                  3841758,
+                  3841846,
+                  3023043,
+                  3023093
+                ],
+                "questionCount": 7,
+                "questionIdList": [
+                  3580467,
+                  3841846,
+                  3842049,
+                  3023093,
+                  3841758,
+                  3023044,
+                  3023043
+                ],
+                "noFinishQuestionIdList": [
+                  3580467,
+                  3842049,
+                  3023044
+                ],
+                "rightQuestionCount": 2,
+                "rightQuestionIdList": [
+                  3023093,
+                  3841758
+                ],
+                "correctRate": 29.0,
+                "errorQuestionIdList": [
+                  3841846,
+                  3023093,
+                  3023043,
+                  3580467,
+                  3023044,
+                  3842049
+                ],
+                "allQuestionCount": 7,
+                "allQuestionIdList": [
+                  3580467,
+                  3842049,
+                  3023093,
+                  3841758,
+                  3023044,
+                  3023043,
+                  3841846
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          },
+          {
+            "id": 145747,
+            "name": "第4节-会计要素及其确认与计量",
+            "level": 2,
+            "chapterId": 145747,
+            "chapterName": "第4节-会计要素及其确认与计量",
+            "finishQuestionCount": 3,
+            "finishQuestionIdList": [
+              3023467,
+              3023131,
+              3022137
+            ],
+            "questionCount": 4,
+            "questionIdList": [
+              3112829,
+              3023131,
+              3023467,
+              3022137
+            ],
+            "noFinishQuestionIdList": [
+              3112829
+            ],
+            "rightQuestionCount": 1,
+            "rightQuestionIdList": [
+              3022137
+            ],
+            "correctRate": 25.0,
+            "errorQuestionIdList": [
+              3112829,
+              3023131,
+              3023467,
+              3022137
+            ],
+            "allQuestionCount": 4,
+            "allQuestionIdList": [
+              3112829,
+              3023467,
+              3023131,
+              3022137
+            ],
+            "children": [
+              {
+                "name": "会计要素及其确认与计量",
+                "level": 2,
+                "chapterName": "会计要素及其确认与计量",
+                "knowledgeId": 165880,
+                "knowledgeName": "会计要素及其确认与计量",
+                "finishQuestionCount": 3,
+                "finishQuestionIdList": [
+                  3023467,
+                  3023131,
+                  3022137
+                ],
+                "questionCount": 4,
+                "questionIdList": [
+                  3022137,
+                  3023131,
+                  3023467,
+                  3112829
+                ],
+                "noFinishQuestionIdList": [
+                  3112829
+                ],
+                "rightQuestionCount": 1,
+                "rightQuestionIdList": [
+                  3022137
+                ],
+                "correctRate": 25.0,
+                "errorQuestionIdList": [
+                  3022137,
+                  3023131,
+                  3023467,
+                  3112829
+                ],
+                "allQuestionCount": 4,
+                "allQuestionIdList": [
+                  3023467,
+                  3022137,
+                  3023131,
+                  3112829
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          },
+          {
+            "id": 145748,
+            "name": "第5节-财务报告",
+            "level": 2,
+            "chapterId": 145748,
+            "chapterName": "第5节-财务报告",
+            "finishQuestionIdList": [],
+            "questionCount": 1,
+            "questionIdList": [
+              3580492
+            ],
+            "noFinishQuestionIdList": [
+              3580492
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [
+              3580492
+            ],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3580492
+            ],
+            "children": [
+              {
+                "name": "财务报告",
+                "level": 2,
+                "chapterName": "财务报告",
+                "knowledgeId": 165881,
+                "knowledgeName": "财务报告",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3580492
+                ],
+                "noFinishQuestionIdList": [
+                  3580492
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [
+                  3580492
+                ],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3580492
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          },
+          {
+            "id": 145749,
+            "name": "第6节-可持续性信息披露",
+            "level": 2,
+            "chapterId": 145749,
+            "chapterName": "第6节-可持续性信息披露",
+            "finishQuestionCount": 1,
+            "finishQuestionIdList": [
+              3545657
+            ],
+            "questionCount": 1,
+            "questionIdList": [
+              3545657
+            ],
+            "noFinishQuestionIdList": [],
+            "rightQuestionCount": 1,
+            "rightQuestionIdList": [
+              3545657
+            ],
+            "correctRate": 100.0,
+            "errorQuestionIdList": [
+              3545657
+            ],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3545657
+            ],
+            "children": [
+              {
+                "name": "可持续性信息披露",
+                "level": 2,
+                "chapterName": "可持续性信息披露",
+                "knowledgeId": 235653,
+                "knowledgeName": "可持续性信息披露",
+                "finishQuestionCount": 1,
+                "finishQuestionIdList": [
+                  3545657
+                ],
+                "questionCount": 1,
+                "questionIdList": [
+                  3545657
+                ],
+                "noFinishQuestionIdList": [],
+                "rightQuestionCount": 1,
+                "rightQuestionIdList": [
+                  3545657
+                ],
+                "correctRate": 100.0,
+                "errorQuestionIdList": [
+                  3545657
+                ],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3545657
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145750,
+        "name": "第2章-存货",
+        "level": 1,
+        "chapterId": 145750,
+        "chapterName": "第2章-存货",
+        "finishQuestionIdList": [],
+        "questionCount": 1,
+        "questionIdList": [
+          3023202
+        ],
+        "noFinishQuestionIdList": [
+          3023202
+        ],
+        "rightQuestionCount": 0,
+        "rightQuestionIdList": [],
+        "correctRate": 0.0,
+        "errorQuestionIdList": [
+          3023202
+        ],
+        "allQuestionCount": 1,
+        "allQuestionIdList": [
+          3023202
+        ],
+        "children": [
+          {
+            "id": 145753,
+            "name": "第3节-期末存货的计量",
+            "level": 2,
+            "chapterId": 145753,
+            "chapterName": "第3节-期末存货的计量",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 1,
+            "questionIdList": [
+              3023202
+            ],
+            "noFinishQuestionIdList": [
+              3023202
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [
+              3023202
+            ],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3023202
+            ],
+            "children": [
+              {
+                "name": "期末存货的计量",
+                "level": 2,
+                "chapterName": "期末存货的计量",
+                "knowledgeId": 165889,
+                "knowledgeName": "期末存货的计量",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3023202
+                ],
+                "noFinishQuestionIdList": [
+                  3023202
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [
+                  3023202
+                ],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3023202
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145755,
+        "name": "第3章-固定资产",
+        "level": 1,
+        "chapterId": 145755,
+        "chapterName": "第3章-固定资产",
+        "finishQuestionIdList": [],
+        "questionCount": 3,
+        "questionIdList": [
+          3333397,
+          3953639,
+          3371695
+        ],
+        "noFinishQuestionIdList": [
+          3333397,
+          3953639,
+          3371695
+        ],
+        "rightQuestionCount": 0,
+        "rightQuestionIdList": [],
+        "correctRate": 0.0,
+        "errorQuestionIdList": [],
+        "allQuestionCount": 3,
+        "allQuestionIdList": [
+          3333397,
+          3953639,
+          3371695
+        ],
+        "children": [
+          {
+            "id": 145756,
+            "name": "第1节-固定资产的确认和初始计量",
+            "level": 2,
+            "chapterId": 145756,
+            "chapterName": "第1节-固定资产的确认和初始计量",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 1,
+            "questionIdList": [
+              3333397
+            ],
+            "noFinishQuestionIdList": [
+              3333397
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3333397
+            ],
+            "children": [
+              {
+                "name": "固定资产的初始计量",
+                "level": 2,
+                "chapterName": "固定资产的初始计量",
+                "knowledgeId": 165893,
+                "knowledgeName": "固定资产的初始计量",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3333397
+                ],
+                "noFinishQuestionIdList": [
+                  3333397
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3333397
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          },
+          {
+            "id": 145757,
+            "name": "第2节-固定资产的后续计量",
+            "level": 2,
+            "chapterId": 145757,
+            "chapterName": "第2节-固定资产的后续计量",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 1,
+            "questionIdList": [
+              3953639
+            ],
+            "noFinishQuestionIdList": [
+              3953639
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3953639
+            ],
+            "children": [
+              {
+                "name": "固定资产的后续计量",
+                "level": 2,
+                "chapterName": "固定资产的后续计量",
+                "knowledgeId": 165894,
+                "knowledgeName": "固定资产的后续计量",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3953639
+                ],
+                "noFinishQuestionIdList": [
+                  3953639
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3953639
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          },
+          {
+            "id": 145758,
+            "name": "第3节-固定资产的处置",
+            "level": 2,
+            "chapterId": 145758,
+            "chapterName": "第3节-固定资产的处置",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 1,
+            "questionIdList": [
+              3371695
+            ],
+            "noFinishQuestionIdList": [
+              3371695
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3371695
+            ],
+            "children": [
+              {
+                "name": "固定资产的处置",
+                "level": 2,
+                "chapterName": "固定资产的处置",
+                "knowledgeId": 222724,
+                "knowledgeName": "固定资产的处置",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3371695
+                ],
+                "noFinishQuestionIdList": [
+                  3371695
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3371695
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145759,
+        "name": "第4章-无形资产",
+        "level": 1,
+        "chapterId": 145759,
+        "chapterName": "第4章-无形资产",
+        "finishQuestionIdList": [],
+        "questionCount": 1,
+        "questionIdList": [
+          3580001
+        ],
+        "noFinishQuestionIdList": [
+          3580001,
+          3106482
+        ],
+        "rightQuestionCount": 0,
+        "rightQuestionIdList": [],
+        "correctRate": 0.0,
+        "errorQuestionIdList": [],
+        "allQuestionCount": 2,
+        "allQuestionIdList": [
+          3580001,
+          3106482
+        ],
+        "children": [
+          {
+            "id": 145762,
+            "name": "第3节-无形资产的后续计量",
+            "level": 2,
+            "chapterId": 145762,
+            "chapterName": "第3节-无形资产的后续计量",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 1,
+            "questionIdList": [
+              3580001
+            ],
+            "noFinishQuestionIdList": [
+              3580001,
+              3106482
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 2,
+            "allQuestionIdList": [
+              3580001,
+              3106482
+            ],
+            "children": [
+              {
+                "name": "无形资产的后续计量",
+                "level": 2,
+                "chapterName": "无形资产的后续计量",
+                "knowledgeId": 165898,
+                "knowledgeName": "无形资产的后续计量",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3580001
+                ],
+                "noFinishQuestionIdList": [
+                  3580001,
+                  3106482
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 2,
+                "allQuestionIdList": [
+                  3580001,
+                  3106482
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145764,
+        "name": "第5章-投资性房地产",
+        "level": 1,
+        "chapterId": 145764,
+        "chapterName": "第5章-投资性房地产",
+        "finishQuestionIdList": [],
+        "questionIdList": [],
+        "noFinishQuestionIdList": [
+          3106358
+        ],
+        "rightQuestionCount": 0,
+        "rightQuestionIdList": [],
+        "correctRate": 0.0,
+        "errorQuestionIdList": [],
+        "allQuestionCount": 1,
+        "allQuestionIdList": [
+          3106358
+        ],
+        "children": [
+          {
+            "id": 145768,
+            "name": "第4节-投资性房地产的转换和处置",
+            "level": 2,
+            "chapterId": 145768,
+            "chapterName": "第4节-投资性房地产的转换和处置",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 0,
+            "questionIdList": [],
+            "noFinishQuestionIdList": [
+              3106358
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3106358
+            ],
+            "children": [
+              {
+                "name": "投资性房地产用途的转换",
+                "level": 2,
+                "chapterName": "投资性房地产用途的转换",
+                "knowledgeId": 222735,
+                "knowledgeName": "投资性房地产用途的转换",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 0,
+                "questionIdList": [],
+                "noFinishQuestionIdList": [
+                  3106358
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3106358
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145769,
+        "name": "第6章-长期股权投资与合营安排",
+        "level": 1,
+        "chapterId": 145769,
+        "chapterName": "第6章-长期股权投资与合营安排",
+        "finishQuestionIdList": [],
+        "questionCount": 5,
+        "questionIdList": [
+          3371686,
+          3371707,
+          3371706,
+          3371710,
+          3106514
+        ],
+        "noFinishQuestionIdList": [
+          3371686,
+          3371707,
+          3371706,
+          3371710,
+          3106514
+        ],
+        "rightQuestionCount": 0,
+        "rightQuestionIdList": [],
+        "correctRate": 0.0,
+        "errorQuestionIdList": [],
+        "allQuestionCount": 5,
+        "allQuestionIdList": [
+          3371686,
+          3371707,
+          3371706,
+          3371710,
+          3106514
+        ],
+        "children": [
+          {
+            "id": 145771,
+            "name": "第2节-长期股权投资的初始计量",
+            "level": 2,
+            "chapterId": 145771,
+            "chapterName": "第2节-长期股权投资的初始计量",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 1,
+            "questionIdList": [
+              3371706
+            ],
+            "noFinishQuestionIdList": [
+              3371706
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3371706
+            ],
+            "children": [
+              {
+                "name": "长期股权投资的初始计量",
+                "level": 2,
+                "chapterName": "长期股权投资的初始计量",
+                "knowledgeId": 165890,
+                "knowledgeName": "长期股权投资的初始计量",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3371706
+                ],
+                "noFinishQuestionIdList": [
+                  3371706
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3371706
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          },
+          {
+            "id": 145772,
+            "name": "第3节-长期股权投资的后续计量",
+            "level": 2,
+            "chapterId": 145772,
+            "chapterName": "第3节-长期股权投资的后续计量",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 3,
+            "questionIdList": [
+              3371707,
+              3371710,
+              3106514
+            ],
+            "noFinishQuestionIdList": [
+              3371707,
+              3371710,
+              3106514
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 3,
+            "allQuestionIdList": [
+              3371707,
+              3371710,
+              3106514
+            ],
+            "children": [
+              {
+                "name": "长期股权投资的后续计量",
+                "level": 2,
+                "chapterName": "长期股权投资的后续计量",
+                "knowledgeId": 165891,
+                "knowledgeName": "长期股权投资的后续计量",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 3,
+                "questionIdList": [
+                  3371707,
+                  3371710,
+                  3106514
+                ],
+                "noFinishQuestionIdList": [
+                  3371707,
+                  3371710,
+                  3106514
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 3,
+                "allQuestionIdList": [
+                  3371707,
+                  3371710,
+                  3106514
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          },
+          {
+            "id": 145773,
+            "name": "第4节-长期股权投资核算方法的转换及处置",
+            "level": 2,
+            "chapterId": 145773,
+            "chapterName": "第4节-长期股权投资核算方法的转换及处置",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 1,
+            "questionIdList": [
+              3371686
+            ],
+            "noFinishQuestionIdList": [
+              3371686
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3371686
+            ],
+            "children": [
+              {
+                "name": "长期股权投资核算方法的转换及处置",
+                "level": 2,
+                "chapterName": "长期股权投资核算方法的转换及处置",
+                "knowledgeId": 165969,
+                "knowledgeName": "长期股权投资核算方法的转换及处置",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3371686
+                ],
+                "noFinishQuestionIdList": [
+                  3371686
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3371686
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145775,
+        "name": "第7章-资产减值",
+        "level": 1,
+        "chapterId": 145775,
+        "chapterName": "第7章-资产减值",
+        "finishQuestionIdList": [],
+        "questionCount": 1,
+        "questionIdList": [
+          3580033
+        ],
+        "noFinishQuestionIdList": [
+          3580033,
+          3023600
+        ],
+        "rightQuestionCount": 0,
+        "rightQuestionIdList": [],
+        "correctRate": 0.0,
+        "errorQuestionIdList": [],
+        "allQuestionCount": 2,
+        "allQuestionIdList": [
+          3580033,
+          3023600
+        ],
+        "children": [
+          {
+            "id": 145778,
+            "name": "第3节-资产减值损失的确认与计量",
+            "level": 2,
+            "chapterId": 145778,
+            "chapterName": "第3节-资产减值损失的确认与计量",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 1,
+            "questionIdList": [
+              3580033
+            ],
+            "noFinishQuestionIdList": [
+              3580033
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3580033
+            ],
+            "children": [
+              {
+                "name": "资产减值损失的确认与计量",
+                "level": 2,
+                "chapterName": "资产减值损失的确认与计量",
+                "knowledgeId": 165960,
+                "knowledgeName": "资产减值损失的确认与计量",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3580033
+                ],
+                "noFinishQuestionIdList": [
+                  3580033
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3580033
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          },
+          {
+            "id": 145780,
+            "name": "第5节-商誉减值测试与处理",
+            "level": 2,
+            "chapterId": 145780,
+            "chapterName": "第5节-商誉减值测试与处理",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionIdList": [],
+            "noFinishQuestionIdList": [
+              3023600
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3023600
+            ],
+            "children": [
+              {
+                "name": "商誉减值测试与处理",
+                "level": 2,
+                "chapterName": "商誉减值测试与处理",
+                "knowledgeId": 165971,
+                "knowledgeName": "商誉减值测试与处理",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 0,
+                "questionIdList": [],
+                "noFinishQuestionIdList": [
+                  3023600
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3023600
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145781,
+        "name": "第8章-负债",
+        "level": 1,
+        "chapterId": 145781,
+        "chapterName": "第8章-负债",
+        "finishQuestionIdList": [],
+        "questionIdList": [],
+        "noFinishQuestionIdList": [
+          3580495
+        ],
+        "rightQuestionCount": 0,
+        "rightQuestionIdList": [],
+        "correctRate": 0.0,
+        "errorQuestionIdList": [],
+        "allQuestionCount": 1,
+        "allQuestionIdList": [
+          3580495
+        ],
+        "children": [
+          {
+            "id": 145782,
+            "name": "第1节-流动负债",
+            "level": 2,
+            "chapterId": 145782,
+            "chapterName": "第1节-流动负债",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 0,
+            "questionIdList": [],
+            "noFinishQuestionIdList": [
+              3580495
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3580495
+            ],
+            "children": [
+              {
+                "name": "流动负债",
+                "level": 2,
+                "chapterName": "流动负债",
+                "knowledgeId": 165964,
+                "knowledgeName": "流动负债",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 0,
+                "questionIdList": [],
+                "noFinishQuestionIdList": [
+                  3580495
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3580495
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145784,
+        "name": "第9章-职工薪酬",
+        "level": 1,
+        "chapterId": 145784,
+        "chapterName": "第9章-职工薪酬",
+        "finishQuestionIdList": [],
+        "questionCount": 4,
+        "questionIdList": [
+          3023790,
+          3580485,
+          3580030,
+          3023761
+        ],
+        "noFinishQuestionIdList": [
+          3023790,
+          3580485,
+          3580030,
+          3023761
+        ],
+        "rightQuestionCount": 0,
+        "rightQuestionIdList": [],
+        "correctRate": 0.0,
+        "errorQuestionIdList": [
+          3023790,
+          3580485
+        ],
+        "allQuestionCount": 4,
+        "allQuestionIdList": [
+          3023790,
+          3580485,
+          3580030,
+          3023761
+        ],
+        "children": [
+          {
+            "id": 145785,
+            "name": "第1节-职工和职工薪酬的范围及分类",
+            "level": 2,
+            "chapterId": 145785,
+            "chapterName": "第1节-职工和职工薪酬的范围及分类",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 1,
+            "questionIdList": [
+              3580030
+            ],
+            "noFinishQuestionIdList": [
+              3580030
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3580030
+            ],
+            "children": [
+              {
+                "name": "职工和职工薪酬的范围及分类",
+                "level": 2,
+                "chapterName": "职工和职工薪酬的范围及分类",
+                "knowledgeId": 165973,
+                "knowledgeName": "职工和职工薪酬的范围及分类",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3580030
+                ],
+                "noFinishQuestionIdList": [
+                  3580030
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3580030
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          },
+          {
+            "id": 145788,
+            "name": "第4节-辞退福利的确认与计量",
+            "level": 2,
+            "chapterId": 145788,
+            "chapterName": "第4节-辞退福利的确认与计量",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 2,
+            "questionIdList": [
+              3023790,
+              3580485
+            ],
+            "noFinishQuestionIdList": [
+              3023790,
+              3580485
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [
+              3023790,
+              3580485
+            ],
+            "allQuestionCount": 2,
+            "allQuestionIdList": [
+              3023790,
+              3580485
+            ],
+            "children": [
+              {
+                "name": "辞退福利的确认与计量",
+                "level": 2,
+                "chapterName": "辞退福利的确认与计量",
+                "knowledgeId": 165976,
+                "knowledgeName": "辞退福利的确认与计量",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 2,
+                "questionIdList": [
+                  3580485,
+                  3023790
+                ],
+                "noFinishQuestionIdList": [
+                  3580485,
+                  3023790
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [
+                  3023790,
+                  3580485
+                ],
+                "allQuestionCount": 2,
+                "allQuestionIdList": [
+                  3580485,
+                  3023790
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          },
+          {
+            "id": 145789,
+            "name": "第5节-其他长期职工福利的确认与计量",
+            "level": 2,
+            "chapterId": 145789,
+            "chapterName": "第5节-其他长期职工福利的确认与计量",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 1,
+            "questionIdList": [
+              3023761
+            ],
+            "noFinishQuestionIdList": [
+              3023761
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3023761
+            ],
+            "children": [
+              {
+                "name": "其他长期职工福利的确认与计量",
+                "level": 2,
+                "chapterName": "其他长期职工福利的确认与计量",
+                "knowledgeId": 165977,
+                "knowledgeName": "其他长期职工福利的确认与计量",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3023761
+                ],
+                "noFinishQuestionIdList": [
+                  3023761
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3023761
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145790,
+        "name": "第10章-股份支付",
+        "level": 1,
+        "chapterId": 145790,
+        "chapterName": "第10章-股份支付",
+        "finishQuestionIdList": [],
+        "questionCount": 2,
+        "questionIdList": [
+          3580022,
+          3023812
+        ],
+        "noFinishQuestionIdList": [
+          3580022,
+          3023812
+        ],
+        "rightQuestionCount": 0,
+        "rightQuestionIdList": [],
+        "correctRate": 0.0,
+        "errorQuestionIdList": [
+          3580022,
+          3023812
+        ],
+        "allQuestionCount": 2,
+        "allQuestionIdList": [
+          3580022,
+          3023812
+        ],
+        "children": [
+          {
+            "id": 145792,
+            "name": "第2节-股份支付的确认和计量",
+            "level": 2,
+            "chapterId": 145792,
+            "chapterName": "第2节-股份支付的确认和计量",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 2,
+            "questionIdList": [
+              3580022,
+              3023812
+            ],
+            "noFinishQuestionIdList": [
+              3580022,
+              3023812
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [
+              3580022,
+              3023812
+            ],
+            "allQuestionCount": 2,
+            "allQuestionIdList": [
+              3580022,
+              3023812
+            ],
+            "children": [
+              {
+                "name": "股份支付的确认和计量",
+                "level": 2,
+                "chapterName": "股份支付的确认和计量",
+                "knowledgeId": 165982,
+                "knowledgeName": "股份支付的确认和计量",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 2,
+                "questionIdList": [
+                  3580022,
+                  3023812
+                ],
+                "noFinishQuestionIdList": [
+                  3580022,
+                  3023812
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [
+                  3580022,
+                  3023812
+                ],
+                "allQuestionCount": 2,
+                "allQuestionIdList": [
+                  3580022,
+                  3023812
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145794,
+        "name": "第11章-借款费用",
+        "level": 1,
+        "chapterId": 145794,
+        "chapterName": "第11章-借款费用",
+        "finishQuestionIdList": [],
+        "questionCount": 2,
+        "questionIdList": [
+          3106510,
+          3024232
+        ],
+        "noFinishQuestionIdList": [
+          3106510,
+          3024232
+        ],
+        "rightQuestionCount": 0,
+        "rightQuestionIdList": [],
+        "correctRate": 0.0,
+        "errorQuestionIdList": [],
+        "allQuestionCount": 2,
+        "allQuestionIdList": [
+          3106510,
+          3024232
+        ],
+        "children": [
+          {
+            "id": 145796,
+            "name": "第2节-借款费用的确认",
+            "level": 2,
+            "chapterId": 145796,
+            "chapterName": "第2节-借款费用的确认",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 1,
+            "questionIdList": [
+              3106510
+            ],
+            "noFinishQuestionIdList": [
+              3106510
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3106510
+            ],
+            "children": [
+              {
+                "name": "借款费用的确认",
+                "level": 2,
+                "chapterName": "借款费用的确认",
+                "knowledgeId": 165979,
+                "knowledgeName": "借款费用的确认",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3106510
+                ],
+                "noFinishQuestionIdList": [
+                  3106510
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3106510
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          },
+          {
+            "id": 145797,
+            "name": "第3节-借款费用的计量",
+            "level": 2,
+            "chapterId": 145797,
+            "chapterName": "第3节-借款费用的计量",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 1,
+            "questionIdList": [
+              3024232
+            ],
+            "noFinishQuestionIdList": [
+              3024232
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3024232
+            ],
+            "children": [
+              {
+                "name": "借款费用的计量",
+                "level": 2,
+                "chapterName": "借款费用的计量",
+                "knowledgeId": 165980,
+                "knowledgeName": "借款费用的计量",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3024232
+                ],
+                "noFinishQuestionIdList": [
+                  3024232
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3024232
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145798,
+        "name": "第12章-或有事项",
+        "level": 1,
+        "chapterId": 145798,
+        "chapterName": "第12章-或有事项",
+        "finishQuestionIdList": [],
+        "questionCount": 4,
+        "questionIdList": [
+          3023276,
+          3023815,
+          3580029,
+          3023280
+        ],
+        "noFinishQuestionIdList": [
+          3023276,
+          3023815,
+          3580029,
+          3023280
+        ],
+        "rightQuestionCount": 0,
+        "rightQuestionIdList": [],
+        "correctRate": 0.0,
+        "errorQuestionIdList": [
+          3023276,
+          3023815,
+          3023280
+        ],
+        "allQuestionCount": 4,
+        "allQuestionIdList": [
+          3023276,
+          3023815,
+          3580029,
+          3023280
+        ],
+        "children": [
+          {
+            "id": 145800,
+            "name": "第2节-或有事项的确认和计量",
+            "level": 2,
+            "chapterId": 145800,
+            "chapterName": "第2节-或有事项的确认和计量",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 1,
+            "questionIdList": [
+              3580029
+            ],
+            "noFinishQuestionIdList": [
+              3580029
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3580029
+            ],
+            "children": [
+              {
+                "name": "或有事项的确认和计量",
+                "level": 2,
+                "chapterName": "或有事项的确认和计量",
+                "knowledgeId": 165985,
+                "knowledgeName": "或有事项的确认和计量",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3580029
+                ],
+                "noFinishQuestionIdList": [
+                  3580029
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3580029
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          },
+          {
+            "id": 145801,
+            "name": "第3节-或有事项会计处理的具体应用",
+            "level": 2,
+            "chapterId": 145801,
+            "chapterName": "第3节-或有事项会计处理的具体应用",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 3,
+            "questionIdList": [
+              3023276,
+              3023815,
+              3023280
+            ],
+            "noFinishQuestionIdList": [
+              3023276,
+              3023815,
+              3023280
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [
+              3023276,
+              3023815,
+              3023280
+            ],
+            "allQuestionCount": 3,
+            "allQuestionIdList": [
+              3023276,
+              3023815,
+              3023280
+            ],
+            "children": [
+              {
+                "name": "产品质量保证",
+                "level": 2,
+                "chapterName": "产品质量保证",
+                "knowledgeId": 222765,
+                "knowledgeName": "产品质量保证",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 2,
+                "questionIdList": [
+                  3023276,
+                  3023280
+                ],
+                "noFinishQuestionIdList": [
+                  3023276,
+                  3023280
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [
+                  3023276,
+                  3023280
+                ],
+                "allQuestionCount": 2,
+                "allQuestionIdList": [
+                  3023276,
+                  3023280
+                ],
+                "type": 2
+              },
+              {
+                "name": "亏损合同",
+                "level": 2,
+                "chapterName": "亏损合同",
+                "knowledgeId": 222766,
+                "knowledgeName": "亏损合同",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3023815
+                ],
+                "noFinishQuestionIdList": [
+                  3023815
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [
+                  3023815
+                ],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3023815
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145803,
+        "name": "第13章-金融工具与保险合同",
+        "level": 1,
+        "chapterId": 145803,
+        "chapterName": "第13章-金融工具与保险合同",
+        "finishQuestionIdList": [],
+        "questionCount": 2,
+        "questionIdList": [
+          3379466,
+          3371708
+        ],
+        "noFinishQuestionIdList": [
+          3379466,
+          3371708
+        ],
+        "rightQuestionCount": 0,
+        "rightQuestionIdList": [],
+        "correctRate": 0.0,
+        "errorQuestionIdList": [],
+        "allQuestionCount": 2,
+        "allQuestionIdList": [
+          3379466,
+          3371708
+        ],
+        "children": [
+          {
+            "id": 145807,
+            "name": "第4节-金融工具的确认和计量",
+            "level": 2,
+            "chapterId": 145807,
+            "chapterName": "第4节-金融工具的确认和计量",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 2,
+            "questionIdList": [
+              3379466,
+              3371708
+            ],
+            "noFinishQuestionIdList": [
+              3379466,
+              3371708
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 2,
+            "allQuestionIdList": [
+              3379466,
+              3371708
+            ],
+            "children": [
+              {
+                "name": "金融工具的减值",
+                "level": 2,
+                "chapterName": "金融工具的减值",
+                "knowledgeId": 165990,
+                "knowledgeName": "金融工具的减值",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 2,
+                "questionIdList": [
+                  3379466,
+                  3371708
+                ],
+                "noFinishQuestionIdList": [
+                  3371708,
+                  3379466
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 2,
+                "allQuestionIdList": [
+                  3371708,
+                  3379466
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145811,
+        "name": "第14章-租赁",
+        "level": 1,
+        "chapterId": 145811,
+        "chapterName": "第14章-租赁",
+        "finishQuestionCount": 1,
+        "finishQuestionIdList": [
+          3371689
+        ],
+        "questionCount": 1,
+        "questionIdList": [
+          3371689
+        ],
+        "noFinishQuestionIdList": [
+          3106363
+        ],
+        "rightQuestionCount": 0,
+        "rightQuestionIdList": [],
+        "correctRate": 0.0,
+        "errorQuestionIdList": [
+          3371689
+        ],
+        "allQuestionCount": 2,
+        "allQuestionIdList": [
+          3106363,
+          3371689
+        ],
+        "children": [
+          {
+            "id": 145813,
+            "name": "第2节-承租人会计处理",
+            "level": 2,
+            "chapterId": 145813,
+            "chapterName": "第2节-承租人会计处理",
+            "finishQuestionCount": 1,
+            "finishQuestionIdList": [
+              3371689
+            ],
+            "questionCount": 1,
+            "questionIdList": [
+              3371689
+            ],
+            "noFinishQuestionIdList": [],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [
+              3371689
+            ],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3371689
+            ],
+            "children": [
+              {
+                "name": "后续计量",
+                "level": 2,
+                "chapterName": "后续计量",
+                "knowledgeId": 222781,
+                "knowledgeName": "后续计量",
+                "finishQuestionCount": 1,
+                "finishQuestionIdList": [
+                  3371689
+                ],
+                "questionCount": 1,
+                "questionIdList": [
+                  3371689
+                ],
+                "noFinishQuestionIdList": [],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [
+                  3371689
+                ],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3371689
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          },
+          {
+            "id": 145814,
+            "name": "第3节-出租人会计处理",
+            "level": 2,
+            "chapterId": 145814,
+            "chapterName": "第3节-出租人会计处理",
+            "finishQuestionIdList": [],
+            "questionIdList": [],
+            "noFinishQuestionIdList": [
+              3106363
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3106363
+            ],
+            "children": [
+              {
+                "name": "出租人对经营租赁的会计处理",
+                "level": 2,
+                "chapterName": "出租人对经营租赁的会计处理",
+                "knowledgeId": 165927,
+                "knowledgeName": "出租人对经营租赁的会计处理",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 0,
+                "questionIdList": [],
+                "noFinishQuestionIdList": [
+                  3106363
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3106363
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145816,
+        "name": "第15章-持有待售的非流动资产、处置组和终止经营",
+        "level": 1,
+        "chapterId": 145816,
+        "chapterName": "第15章-持有待售的非流动资产、处置组和终止经营",
+        "finishQuestionIdList": [],
+        "questionCount": 1,
+        "questionIdList": [
+          3106486
+        ],
+        "noFinishQuestionIdList": [
+          3106486
+        ],
+        "rightQuestionCount": 0,
+        "rightQuestionIdList": [],
+        "correctRate": 0.0,
+        "errorQuestionIdList": [],
+        "allQuestionCount": 1,
+        "allQuestionIdList": [
+          3106486
+        ],
+        "children": [
+          {
+            "id": 145819,
+            "name": "第2节-终止经营",
+            "level": 2,
+            "chapterId": 145819,
+            "chapterName": "第2节-终止经营",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 1,
+            "questionIdList": [
+              3106486
+            ],
+            "noFinishQuestionIdList": [
+              3106486
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3106486
+            ],
+            "children": [
+              {
+                "name": "终止经营",
+                "level": 2,
+                "chapterName": "终止经营",
+                "knowledgeId": 165999,
+                "knowledgeName": "终止经营",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3106486
+                ],
+                "noFinishQuestionIdList": [
+                  3106486
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3106486
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145820,
+        "name": "第16章-所有者权益",
+        "level": 1,
+        "chapterId": 145820,
+        "chapterName": "第16章-所有者权益",
+        "finishQuestionIdList": [],
+        "questionCount": 1,
+        "questionIdList": [
+          3106332
+        ],
+        "noFinishQuestionIdList": [
+          3106332,
+          3841695
+        ],
+        "rightQuestionCount": 0,
+        "rightQuestionIdList": [],
+        "correctRate": 0.0,
+        "errorQuestionIdList": [],
+        "allQuestionCount": 2,
+        "allQuestionIdList": [
+          3106332,
+          3841695
+        ],
+        "children": [
+          {
+            "id": 145823,
+            "name": "第3节-资本公积、其他综合收益及留存收益",
+            "level": 2,
+            "chapterId": 145823,
+            "chapterName": "第3节-资本公积、其他综合收益及留存收益",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 1,
+            "questionIdList": [
+              3106332
+            ],
+            "noFinishQuestionIdList": [
+              3106332,
+              3841695
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 2,
+            "allQuestionIdList": [
+              3106332,
+              3841695
+            ],
+            "children": [
+              {
+                "name": "其他综合收益的确认与计量及会计处理",
+                "level": 2,
+                "chapterName": "其他综合收益的确认与计量及会计处理",
+                "knowledgeId": 222796,
+                "knowledgeName": "其他综合收益的确认与计量及会计处理",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionIdList": [],
+                "noFinishQuestionIdList": [
+                  3841695
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3841695
+                ],
+                "type": 2
+              },
+              {
+                "name": "留存收益",
+                "level": 2,
+                "chapterName": "留存收益",
+                "knowledgeId": 222797,
+                "knowledgeName": "留存收益",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3106332
+                ],
+                "noFinishQuestionIdList": [
+                  3106332
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3106332
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145824,
+        "name": "第17章-收入、费用和利润",
+        "level": 1,
+        "chapterId": 145824,
+        "chapterName": "第17章-收入、费用和利润",
+        "finishQuestionCount": 2,
+        "finishQuestionIdList": [
+          3580055,
+          3841792
+        ],
+        "questionCount": 8,
+        "questionIdList": [
+          3841994,
+          3580055,
+          3842104,
+          3580494,
+          3841792,
+          3580474,
+          3371709,
+          3842020
+        ],
+        "noFinishQuestionIdList": [
+          3841994,
+          3842104,
+          3580494,
+          3580474,
+          3371709,
+          3842020
+        ],
+        "rightQuestionCount": 1,
+        "rightQuestionIdList": [
+          3580055
+        ],
+        "correctRate": 13.0,
+        "errorQuestionIdList": [
+          3841792
+        ],
+        "allQuestionCount": 8,
+        "allQuestionIdList": [
+          3841994,
+          3580055,
+          3842104,
+          3580494,
+          3841792,
+          3580474,
+          3371709,
+          3842020
+        ],
+        "children": [
+          {
+            "id": 145825,
+            "name": "第1节-收入",
+            "level": 2,
+            "chapterId": 145825,
+            "chapterName": "第1节-收入",
+            "finishQuestionCount": 2,
+            "finishQuestionIdList": [
+              3580055,
+              3841792
+            ],
+            "questionCount": 7,
+            "questionIdList": [
+              3580055,
+              3842104,
+              3580494,
+              3841792,
+              3580474,
+              3371709,
+              3842020
+            ],
+            "noFinishQuestionIdList": [
+              3842104,
+              3580494,
+              3580474,
+              3371709,
+              3842020
+            ],
+            "rightQuestionCount": 1,
+            "rightQuestionIdList": [
+              3580055
+            ],
+            "correctRate": 15.0,
+            "errorQuestionIdList": [
+              3841792
+            ],
+            "allQuestionCount": 7,
+            "allQuestionIdList": [
+              3580055,
+              3842104,
+              3580494,
+              3841792,
+              3580474,
+              3371709,
+              3842020
+            ],
+            "children": [
+              {
+                "name": "收入的概述",
+                "level": 2,
+                "chapterName": "收入的概述",
+                "knowledgeId": 165904,
+                "knowledgeName": "收入的概述",
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3580494
+                ],
+                "noFinishQuestionIdList": [
+                  3580494
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3580494
+                ],
+                "type": 2
+              },
+              {
+                "name": "收入的确认和计量",
+                "level": 2,
+                "chapterName": "收入的确认和计量",
+                "knowledgeId": 222799,
+                "knowledgeName": "收入的确认和计量",
+                "finishQuestionCount": 2,
+                "finishQuestionIdList": [
+                  3580055,
+                  3841792
+                ],
+                "questionCount": 5,
+                "questionIdList": [
+                  3580474,
+                  3841792,
+                  3371709,
+                  3580055,
+                  3842020
+                ],
+                "noFinishQuestionIdList": [
+                  3580474,
+                  3371709,
+                  3842020
+                ],
+                "rightQuestionCount": 1,
+                "rightQuestionIdList": [
+                  3580055
+                ],
+                "correctRate": 20.0,
+                "errorQuestionIdList": [
+                  3841792
+                ],
+                "allQuestionCount": 5,
+                "allQuestionIdList": [
+                  3580474,
+                  3371709,
+                  3580055,
+                  3841792,
+                  3842020
+                ],
+                "type": 2
+              },
+              {
+                "name": "关于特定交易的会计处理",
+                "level": 2,
+                "chapterName": "关于特定交易的会计处理",
+                "knowledgeId": 222801,
+                "knowledgeName": "关于特定交易的会计处理",
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3842104
+                ],
+                "noFinishQuestionIdList": [
+                  3842104
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3842104
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          },
+          {
+            "id": 145826,
+            "name": "第2节-费用",
+            "level": 2,
+            "chapterId": 145826,
+            "chapterName": "第2节-费用",
+            "finishQuestionIdList": [],
+            "questionCount": 1,
+            "questionIdList": [
+              3841994
+            ],
+            "noFinishQuestionIdList": [
+              3841994
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3841994
+            ],
+            "children": [
+              {
+                "name": "费用",
+                "level": 2,
+                "chapterName": "费用",
+                "knowledgeId": 165905,
+                "knowledgeName": "费用",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3841994
+                ],
+                "noFinishQuestionIdList": [
+                  3841994
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3841994
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145828,
+        "name": "第18章-政府补助",
+        "level": 1,
+        "chapterId": 145828,
+        "chapterName": "第18章-政府补助",
+        "finishQuestionIdList": [],
+        "questionCount": 1,
+        "questionIdList": [
+          3580027
+        ],
+        "noFinishQuestionIdList": [
+          3106493,
+          3580027
+        ],
+        "rightQuestionCount": 0,
+        "rightQuestionIdList": [],
+        "correctRate": 0.0,
+        "errorQuestionIdList": [],
+        "allQuestionCount": 2,
+        "allQuestionIdList": [
+          3106493,
+          3580027
+        ],
+        "children": [
+          {
+            "id": 145830,
+            "name": "第2节-政府补助的会计处理",
+            "level": 2,
+            "chapterId": 145830,
+            "chapterName": "第2节-政府补助的会计处理",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 1,
+            "questionIdList": [
+              3580027
+            ],
+            "noFinishQuestionIdList": [
+              3106493,
+              3580027
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 2,
+            "allQuestionIdList": [
+              3106493,
+              3580027
+            ],
+            "children": [
+              {
+                "name": "政府补助的会计处理",
+                "level": 2,
+                "chapterName": "政府补助的会计处理",
+                "knowledgeId": 165996,
+                "knowledgeName": "政府补助的会计处理",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3580027
+                ],
+                "noFinishQuestionIdList": [
+                  3580027,
+                  3106493
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 2,
+                "allQuestionIdList": [
+                  3580027,
+                  3106493
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145838,
+        "name": "第20章-非货币性资产交换",
+        "level": 1,
+        "chapterId": 145838,
+        "chapterName": "第20章-非货币性资产交换",
+        "finishQuestionIdList": [],
+        "questionCount": 1,
+        "questionIdList": [
+          3841761
+        ],
+        "noFinishQuestionIdList": [
+          3841761,
+          3106384
+        ],
+        "rightQuestionCount": 0,
+        "rightQuestionIdList": [],
+        "correctRate": 0.0,
+        "errorQuestionIdList": [
+          3841761
+        ],
+        "allQuestionCount": 2,
+        "allQuestionIdList": [
+          3841761,
+          3106384
+        ],
+        "children": [
+          {
+            "id": 145839,
+            "name": "第1节-非货币性资产交换的概念",
+            "level": 2,
+            "chapterId": 145839,
+            "chapterName": "第1节-非货币性资产交换的概念",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionIdList": [],
+            "noFinishQuestionIdList": [
+              3106384
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3106384
+            ],
+            "children": [
+              {
+                "name": "非货币性资产交换的概念",
+                "level": 2,
+                "chapterName": "非货币性资产交换的概念",
+                "knowledgeId": 165914,
+                "knowledgeName": "非货币性资产交换的概念",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 0,
+                "questionIdList": [],
+                "noFinishQuestionIdList": [
+                  3106384
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3106384
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          },
+          {
+            "id": 145841,
+            "name": "第3节-非货币资产交换的会计处理",
+            "level": 2,
+            "chapterId": 145841,
+            "chapterName": "第3节-非货币资产交换的会计处理",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 1,
+            "questionIdList": [
+              3841761
+            ],
+            "noFinishQuestionIdList": [
+              3841761
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [
+              3841761
+            ],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3841761
+            ],
+            "children": [
+              {
+                "name": "非货币资产交换的会计处理",
+                "level": 2,
+                "chapterName": "非货币资产交换的会计处理",
+                "knowledgeId": 240198,
+                "knowledgeName": "非货币资产交换的会计处理",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3841761
+                ],
+                "noFinishQuestionIdList": [
+                  3841761
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [
+                  3841761
+                ],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3841761
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145846,
+        "name": "第22章-外币折算",
+        "level": 1,
+        "chapterId": 145846,
+        "chapterName": "第22章-外币折算",
+        "finishQuestionIdList": [],
+        "questionCount": 1,
+        "questionIdList": [
+          3106376
+        ],
+        "noFinishQuestionIdList": [
+          3106376
+        ],
+        "rightQuestionCount": 0,
+        "rightQuestionIdList": [],
+        "correctRate": 0.0,
+        "errorQuestionIdList": [],
+        "allQuestionCount": 1,
+        "allQuestionIdList": [
+          3106376
+        ],
+        "children": [
+          {
+            "id": 145848,
+            "name": "第2节-外币交易的会计处理",
+            "level": 2,
+            "chapterId": 145848,
+            "chapterName": "第2节-外币交易的会计处理",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 1,
+            "questionIdList": [
+              3106376
+            ],
+            "noFinishQuestionIdList": [
+              3106376
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3106376
+            ],
+            "children": [
+              {
+                "name": "外币交易的会计处理",
+                "level": 2,
+                "chapterName": "外币交易的会计处理",
+                "knowledgeId": 165923,
+                "knowledgeName": "外币交易的会计处理",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3106376
+                ],
+                "noFinishQuestionIdList": [
+                  3106376
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3106376
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145850,
+        "name": "第23章-财务报告",
+        "level": 1,
+        "chapterId": 145850,
+        "chapterName": "第23章-财务报告",
+        "finishQuestionIdList": [],
+        "questionCount": 4,
+        "questionIdList": [
+          3580037,
+          3580483,
+          3580014,
+          3106499
+        ],
+        "noFinishQuestionIdList": [
+          3580037,
+          3580483,
+          3580014,
+          3106499
+        ],
+        "rightQuestionCount": 0,
+        "rightQuestionIdList": [],
+        "correctRate": 0.0,
+        "errorQuestionIdList": [
+          3580483
+        ],
+        "allQuestionCount": 4,
+        "allQuestionIdList": [
+          3580037,
+          3580483,
+          3580014,
+          3106499
+        ],
+        "children": [
+          {
+            "id": 145853,
+            "name": "第3节-利润表",
+            "level": 2,
+            "chapterId": 145853,
+            "chapterName": "第3节-利润表",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 1,
+            "questionIdList": [
+              3106499
+            ],
+            "noFinishQuestionIdList": [
+              3106499
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3106499
+            ],
+            "children": [
+              {
+                "name": "利润表",
+                "level": 2,
+                "chapterName": "利润表",
+                "knowledgeId": 165909,
+                "knowledgeName": "利润表",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3106499
+                ],
+                "noFinishQuestionIdList": [
+                  3106499
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3106499
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          },
+          {
+            "id": 145856,
+            "name": "第6节-财务报表附注披露",
+            "level": 2,
+            "chapterId": 145856,
+            "chapterName": "第6节-财务报表附注披露",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 2,
+            "questionIdList": [
+              3580037,
+              3580483
+            ],
+            "noFinishQuestionIdList": [
+              3580037,
+              3580483
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [
+              3580483
+            ],
+            "allQuestionCount": 2,
+            "allQuestionIdList": [
+              3580037,
+              3580483
+            ],
+            "children": [
+              {
+                "name": "财务报表附注披露",
+                "level": 2,
+                "chapterName": "财务报表附注披露",
+                "knowledgeId": 165912,
+                "knowledgeName": "财务报表附注披露",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 2,
+                "questionIdList": [
+                  3580483,
+                  3580037
+                ],
+                "noFinishQuestionIdList": [
+                  3580483,
+                  3580037
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [
+                  3580483
+                ],
+                "allQuestionCount": 2,
+                "allQuestionIdList": [
+                  3580483,
+                  3580037
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          },
+          {
+            "id": 145857,
+            "name": "第7节-中期财务报告",
+            "level": 2,
+            "chapterId": 145857,
+            "chapterName": "第7节-中期财务报告",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 1,
+            "questionIdList": [
+              3580014
+            ],
+            "noFinishQuestionIdList": [
+              3580014
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3580014
+            ],
+            "children": [
+              {
+                "name": "中期财务报告",
+                "level": 2,
+                "chapterName": "中期财务报告",
+                "knowledgeId": 165913,
+                "knowledgeName": "中期财务报告",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3580014
+                ],
+                "noFinishQuestionIdList": [
+                  3580014
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3580014
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145858,
+        "name": "第24章-会计政策、会计估计及其变更和差错更正",
+        "level": 1,
+        "chapterId": 145858,
+        "chapterName": "第24章-会计政策、会计估计及其变更和差错更正",
+        "finishQuestionIdList": [],
+        "questionCount": 1,
+        "questionIdList": [
+          3023438
+        ],
+        "noFinishQuestionIdList": [
+          3023438
+        ],
+        "rightQuestionCount": 0,
+        "rightQuestionIdList": [],
+        "correctRate": 0.0,
+        "errorQuestionIdList": [],
+        "allQuestionCount": 1,
+        "allQuestionIdList": [
+          3023438
+        ],
+        "children": [
+          {
+            "id": 145863,
+            "name": "第5节-前期差错及其更正",
+            "level": 2,
+            "chapterId": 145863,
+            "chapterName": "第5节-前期差错及其更正",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 1,
+            "questionIdList": [
+              3023438
+            ],
+            "noFinishQuestionIdList": [
+              3023438
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3023438
+            ],
+            "children": [
+              {
+                "name": "前期差错及其更正",
+                "level": 2,
+                "chapterName": "前期差错及其更正",
+                "knowledgeId": 165957,
+                "knowledgeName": "前期差错及其更正",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3023438
+                ],
+                "noFinishQuestionIdList": [
+                  3023438
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3023438
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145864,
+        "name": "第25章-资产负债表日后事项",
+        "level": 1,
+        "chapterId": 145864,
+        "chapterName": "第25章-资产负债表日后事项",
+        "finishQuestionIdList": [],
+        "questionIdList": [],
+        "noFinishQuestionIdList": [
+          3106438
+        ],
+        "rightQuestionCount": 0,
+        "rightQuestionIdList": [],
+        "correctRate": 0.0,
+        "errorQuestionIdList": [],
+        "allQuestionCount": 1,
+        "allQuestionIdList": [
+          3106438
+        ],
+        "children": [
+          {
+            "id": 145865,
+            "name": "第1节-资产负债表日后事项概述",
+            "level": 2,
+            "chapterId": 145865,
+            "chapterName": "第1节-资产负债表日后事项概述",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 0,
+            "questionIdList": [],
+            "noFinishQuestionIdList": [
+              3106438
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3106438
+            ],
+            "children": [
+              {
+                "name": "资产负债表日后事项概述",
+                "level": 2,
+                "chapterName": "资产负债表日后事项概述",
+                "knowledgeId": 165929,
+                "knowledgeName": "资产负债表日后事项概述",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 0,
+                "questionIdList": [],
+                "noFinishQuestionIdList": [
+                  3106438
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3106438
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145871,
+        "name": "第27章-合并财务报表",
+        "level": 1,
+        "chapterId": 145871,
+        "chapterName": "第27章-合并财务报表",
+        "finishQuestionIdList": [],
+        "questionCount": 2,
+        "questionIdList": [
+          3106524,
+          3106368
+        ],
+        "noFinishQuestionIdList": [
+          3106524,
+          3106368
+        ],
+        "rightQuestionCount": 0,
+        "rightQuestionIdList": [],
+        "correctRate": 0.0,
+        "errorQuestionIdList": [],
+        "allQuestionCount": 2,
+        "allQuestionIdList": [
+          3106524,
+          3106368
+        ],
+        "children": [
+          {
+            "id": 145890,
+            "name": "第9节-特殊交易在合并报表中的会计处理",
+            "level": 2,
+            "chapterId": 145890,
+            "chapterName": "第9节-特殊交易在合并报表中的会计处理",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 2,
+            "questionIdList": [
+              3106524,
+              3106368
+            ],
+            "noFinishQuestionIdList": [
+              3106524,
+              3106368
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 2,
+            "allQuestionIdList": [
+              3106524,
+              3106368
+            ],
+            "children": [
+              {
+                "name": "特殊交易在合并财务报表中的会计处理",
+                "level": 2,
+                "chapterName": "特殊交易在合并财务报表中的会计处理",
+                "knowledgeId": 165941,
+                "knowledgeName": "特殊交易在合并财务报表中的会计处理",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 2,
+                "questionIdList": [
+                  3106368,
+                  3106524
+                ],
+                "noFinishQuestionIdList": [
+                  3106368,
+                  3106524
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 2,
+                "allQuestionIdList": [
+                  3106368,
+                  3106524
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145899,
+        "name": "第28章-每股收益",
+        "level": 1,
+        "chapterId": 145899,
+        "chapterName": "第28章-每股收益",
+        "finishQuestionIdList": [],
+        "questionCount": 1,
+        "questionIdList": [
+          3106520
+        ],
+        "noFinishQuestionIdList": [
+          3106520
+        ],
+        "rightQuestionCount": 0,
+        "rightQuestionIdList": [],
+        "correctRate": 0.0,
+        "errorQuestionIdList": [],
+        "allQuestionCount": 1,
+        "allQuestionIdList": [
+          3106520
+        ],
+        "children": [
+          {
+            "id": 145903,
+            "name": "第2节-基本每股收益",
+            "level": 2,
+            "chapterId": 145903,
+            "chapterName": "第2节-基本每股收益",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 1,
+            "questionIdList": [
+              3106520
+            ],
+            "noFinishQuestionIdList": [
+              3106520
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3106520
+            ],
+            "children": [
+              {
+                "name": "基本每股收益",
+                "level": 2,
+                "chapterName": "基本每股收益",
+                "knowledgeId": 165945,
+                "knowledgeName": "基本每股收益",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3106520
+                ],
+                "noFinishQuestionIdList": [
+                  3106520
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3106520
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145911,
+        "name": "第29章-公允价值计量",
+        "level": 1,
+        "chapterId": 145911,
+        "chapterName": "第29章-公允价值计量",
+        "finishQuestionIdList": [],
+        "questionCount": 1,
+        "questionIdList": [
+          3115766
+        ],
+        "noFinishQuestionIdList": [
+          3115766
+        ],
+        "rightQuestionCount": 0,
+        "rightQuestionIdList": [],
+        "correctRate": 0.0,
+        "errorQuestionIdList": [
+          3115766
+        ],
+        "allQuestionCount": 1,
+        "allQuestionIdList": [
+          3115766
+        ],
+        "children": [
+          {
+            "id": 145913,
+            "name": "第1节-公允价值概述",
+            "level": 2,
+            "chapterId": 145913,
+            "chapterName": "第1节-公允价值概述",
+            "finishQuestionCount": 0,
+            "finishQuestionIdList": [],
+            "questionCount": 1,
+            "questionIdList": [
+              3115766
+            ],
+            "noFinishQuestionIdList": [
+              3115766
+            ],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [
+              3115766
+            ],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3115766
+            ],
+            "children": [
+              {
+                "name": "公允价值概述",
+                "level": 2,
+                "chapterName": "公允价值概述",
+                "knowledgeId": 165948,
+                "knowledgeName": "公允价值概述",
+                "finishQuestionCount": 0,
+                "finishQuestionIdList": [],
+                "questionCount": 1,
+                "questionIdList": [
+                  3115766
+                ],
+                "noFinishQuestionIdList": [
+                  3115766
+                ],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [
+                  3115766
+                ],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3115766
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      },
+      {
+        "id": 145920,
+        "name": "第30章-政府及民间非营利组织会计",
+        "level": 1,
+        "chapterId": 145920,
+        "chapterName": "第30章-政府及民间非营利组织会计",
+        "finishQuestionCount": 3,
+        "finishQuestionIdList": [
+          3106444,
+          3580035,
+          3580477
+        ],
+        "questionCount": 3,
+        "questionIdList": [
+          3106444,
+          3580035,
+          3580477
+        ],
+        "noFinishQuestionIdList": [],
+        "rightQuestionCount": 1,
+        "rightQuestionIdList": [
+          3580035
+        ],
+        "correctRate": 34.0,
+        "errorQuestionIdList": [
+          3106444,
+          3580035,
+          3580477
+        ],
+        "allQuestionCount": 3,
+        "allQuestionIdList": [
+          3106444,
+          3580035,
+          3580477
+        ],
+        "children": [
+          {
+            "id": 145924,
+            "name": "第2节-政府单位特定业务的会计核算",
+            "level": 2,
+            "chapterId": 145924,
+            "chapterName": "第2节-政府单位特定业务的会计核算",
+            "finishQuestionCount": 1,
+            "finishQuestionIdList": [
+              3580477
+            ],
+            "questionCount": 1,
+            "questionIdList": [
+              3580477
+            ],
+            "noFinishQuestionIdList": [],
+            "rightQuestionCount": 0,
+            "rightQuestionIdList": [],
+            "correctRate": 0.0,
+            "errorQuestionIdList": [
+              3580477
+            ],
+            "allQuestionCount": 1,
+            "allQuestionIdList": [
+              3580477
+            ],
+            "children": [
+              {
+                "name": "政府单位特定业务的会计核算",
+                "level": 2,
+                "chapterName": "政府单位特定业务的会计核算",
+                "knowledgeId": 166003,
+                "knowledgeName": "政府单位特定业务的会计核算",
+                "finishQuestionCount": 1,
+                "finishQuestionIdList": [
+                  3580477
+                ],
+                "questionCount": 1,
+                "questionIdList": [
+                  3580477
+                ],
+                "noFinishQuestionIdList": [],
+                "rightQuestionCount": 0,
+                "rightQuestionIdList": [],
+                "correctRate": 0.0,
+                "errorQuestionIdList": [
+                  3580477
+                ],
+                "allQuestionCount": 1,
+                "allQuestionIdList": [
+                  3580477
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          },
+          {
+            "id": 145928,
+            "name": "第3节-民间非营利组织会计",
+            "level": 2,
+            "chapterId": 145928,
+            "chapterName": "第3节-民间非营利组织会计",
+            "finishQuestionCount": 2,
+            "finishQuestionIdList": [
+              3106444,
+              3580035
+            ],
+            "questionCount": 2,
+            "questionIdList": [
+              3106444,
+              3580035
+            ],
+            "noFinishQuestionIdList": [],
+            "rightQuestionCount": 1,
+            "rightQuestionIdList": [
+              3580035
+            ],
+            "correctRate": 50.0,
+            "errorQuestionIdList": [
+              3106444,
+              3580035
+            ],
+            "allQuestionCount": 2,
+            "allQuestionIdList": [
+              3106444,
+              3580035
+            ],
+            "children": [
+              {
+                "name": "民间非营利组织会计",
+                "level": 2,
+                "chapterName": "民间非营利组织会计",
+                "knowledgeId": 166004,
+                "knowledgeName": "民间非营利组织会计",
+                "finishQuestionCount": 2,
+                "finishQuestionIdList": [
+                  3106444,
+                  3580035
+                ],
+                "questionCount": 2,
+                "questionIdList": [
+                  3106444,
+                  3580035
+                ],
+                "noFinishQuestionIdList": [],
+                "rightQuestionCount": 1,
+                "rightQuestionIdList": [
+                  3580035
+                ],
+                "correctRate": 50.0,
+                "errorQuestionIdList": [
+                  3580035,
+                  3106444
+                ],
+                "allQuestionCount": 2,
+                "allQuestionIdList": [
+                  3106444,
+                  3580035
+                ],
+                "type": 2
+              }
+            ],
+            "type": 1
+          }
+        ],
+        "type": 1
+      }
+    ],
+    "success": true
+  }
+}

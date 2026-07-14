@@ -1,0 +1,103 @@
+{
+  "status_code": 200,
+  "body": {
+    "status": {
+      "code": 0,
+      "msg": "OK",
+      "tips": "OK"
+    },
+    "data": [
+      {
+        "categoryId": 5847,
+        "categoryName": "会计",
+        "categoryAlias": "会计",
+        "secondCategoryId": 5846,
+        "secondCategoryName": null,
+        "recommendLength": null,
+        "productId": null,
+        "selected": false,
+        "isExcludedCategory": 0,
+        "isRemediationRequest": 0,
+        "teachModelType": 0,
+        "sort": 1,
+        "isLockMemoryCard": null
+      },
+      {
+        "categoryId": 5848,
+        "categoryName": "审计",
+        "categoryAlias": "审计",
+        "secondCategoryId": 5846,
+        "secondCategoryName": null,
+        "recommendLength": null,
+        "productId": null,
+        "selected": false,
+        "isExcludedCategory": 0,
+        "isRemediationRequest": 0,
+        "teachModelType": 0,
+        "sort": 2,
+        "isLockMemoryCard": null
+      },
+      {
+        "categoryId": 5849,
+        "categoryName": "财务成本管理",
+        "categoryAlias": "财管",
+        "secondCategoryId": 5846,
+        "secondCategoryName": null,
+        "recommendLength": null,
+        "productId": null,
+        "selected": false,
+        "isExcludedCategory": 0,
+        "isRemediationRequest": 0,
+        "teachModelType": 0,
+        "sort": 3,
+        "isLockMemoryCard": null
+      },
+      {
+        "categoryId": 5850,
+        "categoryName": "税法",
+        "categoryAlias": "税法",
+        "secondCategoryId": 5846,
+        "secondCategoryName": null,
+        "recommendLength": null,
+        "productId": null,
+        "selected": false,
+        "isExcludedCategory": 0,
+        "isRemediationRequest": 0,
+        "teachModelType": 0,
+        "sort": 4,
+        "isLockMemoryCard": null
+      },
+      {
+        "categoryId": 5851,
+        "categoryName": "经济法",
+        "categoryAlias": "经济法",
+        "secondCategoryId": 5846,
+        "secondCategoryName": null,
+        "recommendLength": null,
+        "productId": null,
+        "selected": false,
+        "isExcludedCategory": 0,
+        "isRemediationRequest": 0,
+        "teachModelType": 0,
+        "sort": 5,
+        "isLockMemoryCard": null
+      },
+      {
+        "categoryId": 5852,
+        "categoryName": "公司战略与风险管理",
+        "categoryAlias": null,
+        "secondCategoryId": 5846,
+        "secondCategoryName": null,
+        "recommendLength": null,
+        "productId": null,
+        "selected": false,
+        "isExcludedCategory": 0,
+        "isRemediationRequest": 0,
+        "teachModelType": 0,
+        "sort": 6,
+        "isLockMemoryCard": null
+      }
+    ],
+    "success": true
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "status_code": 200,
+  "body": {
+    "status": {
+      "code": 0,
+      "msg": "OK",
+      "tips": "OK"
+    },
+    "data": [
+      {
+        "categoryId": 5847,
+        "categoryName": "会计",
+        "categoryAlias": "会计",
+        "secondCategoryId": 5846,
+        "secondCategoryName": null,
+        "recommendLength": null,
+        "productId": 266768,
+        "selected": false,
+        "isExcludedCategory": 0,
+        "isRemediationRequest": 0,
+        "teachModelType": 0,
+        "sort": 1,
+        "isLockMemoryCard": 0
+      },
+      {
+        "categoryId": 5848,
+        "categoryName": "审计",
+        "categoryAlias": "审计",
+        "secondCategoryId": 5846,
+        "secondCategoryName": null,
+        "recommendLength": null,
+        "productId": 229634,
+        "selected": false,
+        "isExcludedCategory": 0,
+        "isRemediationRequest": 0,
+        "teachModelType": 0,
+        "sort": 2,
+        "isLockMemoryCard": 0
+      }
+    ],
+    "success": true
+  }
+}

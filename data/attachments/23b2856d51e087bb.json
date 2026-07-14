@@ -1,0 +1,30 @@
+{
+  "status_code": 200,
+  "body": {
+    "status": {
+      "code": 0,
+      "msg": "OK",
+      "tips": "OK"
+    },
+    "data": {
+      "totalTaskCount": 106,
+      "finishTaskCount": 22,
+      "totalStudyLength": 106978,
+      "totalTargetStudyLength": 465131,
+      "totalKnowledgeCount": 36,
+      "masteryKnowledgeCount": 27,
+      "improvingKnowledgeCount": 4,
+      "notMasteredKnowledgeCount": 5,
+      "notStudyKnowledgeCount": 0,
+      "passRate": 68,
+      "isExcludedCategory": 0,
+      "isShowRemediationReport": 0,
+      "isShowPunchCardReport": 0,
+      "videoPunchCardCount": 0,
+      "videoPunchCardSum": 0,
+      "paperPunchCardCount": 0,
+      "paperPunchCardSum": 0
+    },
+    "success": true
+  }
+}

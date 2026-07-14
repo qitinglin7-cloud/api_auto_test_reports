@@ -1,0 +1,1013 @@
+{
+  "status_code": 200,
+  "body": {
+    "status": {
+      "code": 0,
+      "msg": "OK",
+      "tips": "OK"
+    },
+    "data": [
+      {
+        "categoryId": 5847,
+        "questionId": 3841846,
+        "questionName": "<p>A 公司2×21年7月1日开始执行新修改或颁布的准则，下列经济业务事项中，不违背 可比性要求的有(   )。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 135,
+        "answerErrorCount": 118,
+        "rightRate": "37"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3920687,
+        "questionName": "<p>下列关于投资性房地产的说法中，正确的是（ ）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 126,
+        "answerErrorCount": 113,
+        "rightRate": "44"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 4035706,
+        "questionName": "&lt;p&gt;下列关于可持续信息的表述中，不正确的有（&amp;nbsp; &amp;nbsp; ）。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 128,
+        "answerErrorCount": 95,
+        "rightRate": "44"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023131,
+        "questionName": "<p>下列有关会计要素的确认和计量的表述中，正确的有（    ）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 101,
+        "answerErrorCount": 93,
+        "rightRate": "35"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023467,
+        "questionName": "<p>下列资产分类或转换的会计处理中，符合会计准则规定的有（    ）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 110,
+        "answerErrorCount": 91,
+        "rightRate": "38"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3975605,
+        "questionName": "<p>2×22年12月31日，甲公司持有的自建办公楼账面价值为2 000万元，董事会决议批准将该办公楼的一半面积用于经营出租，持有意图短期内不再发生变化，出租部分区域可单独出售。甲公司的投资性房地产采用公允价值模式进行后续计量。当日，该办公楼出租区域的公允价值3 000万元，由于市场形势变化，2×23年12月31日，办公楼出租区域的公允价值下降至2 000万元。2×24年1月31日，甲公司以2 100万元的价格将该办公楼的出租区域出售。不考虑相关税费及其他因素，下列各项甲公司会计处理的表述中，正确的有（　　）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 116,
+        "answerErrorCount": 90,
+        "rightRate": "46"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841653,
+        "questionName": "<p>甲公司对投资性房地产采用公允价值模式进行后续计量。2×22年8月30日，甲公司收 回租赁期届满的一项投资性房地产将其处置，取得价款7500万元。该项投资性房地产 是甲公司于2×20年9月1日由固定资产转换而来，在转换日，该项固定资产的原价为 9500万元，已累计折旧3500万元，公允价值为7000万元。该项房地产在2×20年 12月31日和2×21年12月31日的公允价值分别为7100万元和7200万元。关于甲公 司处置该项投资性房地产的会计处理，下列说法正确的有(   )。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 96,
+        "answerErrorCount": 88,
+        "rightRate": "39"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3105877,
+        "questionName": "<p>20×9年3月8日，甲公司董事会通过将其自用的一栋办公楼用于出租的议案，并形成书面决议。20×9年4月30日，甲公司已将该栋办公楼全部腾空，达到可以出租的状态。20×9年5月25日，甲公司与乙公司签订租赁合同，将该栋办公楼出租给乙公司。根据租赁合同的约定，该栋办公楼的租赁期为10年，租赁期开始日为20×9年6月1日；首二个月为免租期，乙公司不需要支付租金。不考虑其他因素，甲公司上述自用办公楼转换为投资性房地产的转换日是（ &nbsp; &nbsp;）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 124,
+        "answerErrorCount": 83,
+        "rightRate": "67"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 4035735,
+        "questionName": "&lt;p&gt;下列各项中，不属于固定资产的有（&amp;nbsp; &amp;nbsp; ）。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 109,
+        "answerErrorCount": 82,
+        "rightRate": "45"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841845,
+        "questionName": "<p>下列各项有关投资性房地产的后续计量表述中，正确的有(   )。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 104,
+        "answerErrorCount": 76,
+        "rightRate": "51"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 4039831,
+        "questionName": "&lt;p&gt;2&times;24年7月15日，甲公司出售一栋办公大楼，取得处置价款5300万元，出售当日，该办公楼的公允价值为4500万元。该办公大楼于2&times;16年1月15日购入，入账成本为4200万元，预计使用年限为20年，预计净残值率为10%，采用年限平均法计提折旧。出售过程中未发生其他费用，不考虑相关税费等其他因素。则下列说法中不正确的有（    ）。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 82,
+        "answerErrorCount": 76,
+        "rightRate": "39"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3920690,
+        "questionName": "<p>下列各项关于职工薪酬会计处理的表述中，错误的有（ ）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 97,
+        "answerErrorCount": 74,
+        "rightRate": "48"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841649,
+        "questionName": "<p>下列关于职工薪酬的表述中，正确的有(   )。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 110,
+        "answerErrorCount": 73,
+        "rightRate": "56"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3580492,
+        "questionName": "<p>甲公司2×22年度财务报告经董事会批准于2×23年3月15日报出，下列有关甲公司会计处理正确的是（ )。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 97,
+        "answerErrorCount": 70,
+        "rightRate": "46"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3907090,
+        "questionName": "<p>下列关于无形资产的表述中，错误的是（ ）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 92,
+        "answerErrorCount": 69,
+        "rightRate": "43"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3975542,
+        "questionName": "<p>公允价值套期中的被套期项目按公允价值计量，体现的企业会计信息质量要求是（　　）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 112,
+        "answerErrorCount": 69,
+        "rightRate": "54"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023830,
+        "questionName": "&lt;p&gt;2&times;20年12月31日，甲公司存在一项未决诉讼。根据类似案例的经验判断，该项诉讼败诉的可能性为98％。如果败诉，甲公司将赔偿对方1 000万元并承担诉讼费用50万元，但很可能从第三方收到补偿款100万元。不考虑其他因素，甲公司就此项未决诉讼在2&times;20年财务报告中的列报，表述不正确的有（ &amp;nbsp; &amp;nbsp;）。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 89,
+        "answerErrorCount": 69,
+        "rightRate": "47"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023416,
+        "questionName": "<p>下列业务中，会影响存货账面价值的有（ &nbsp; &nbsp;）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 85,
+        "answerErrorCount": 68,
+        "rightRate": "34"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3975656,
+        "questionName": "&lt;p&gt;2&times;21年度，甲公司发生的有关交易或事项如下:（1）以资本公积1 000万元转增股本。（2）出售持有的其他权益工具投资，出售价格为2 000万元，该投资的成本为1 400万元，已确认的公允价值变动为400万元。（3）按面值发行10 000万元债券，支付佣金300万元，该债券按摊余成本进行后续计量。不考虑相关税费及其他因素，下列各项关于甲公司2&times;21年度会计处理的表述中，正确的有（　　）。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 65,
+        "answerErrorCount": 68,
+        "rightRate": "31"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3333387,
+        "questionName": "<p>某企业采用成本模式计量其持有的投资性房地产。2×08年1月末购入一幢建筑物作为投资性房地产核算并于当期出租，该建筑物的成本为920万元，预计使用年限为5年，预计净残值20万元，采用年数总和法计提折旧。2×09年该投资性房地产应计提的折旧额是（   ）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 111,
+        "answerErrorCount": 67,
+        "rightRate": "59"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841717,
+        "questionName": "<p>甲公司系一上市公司，为增值税一般纳税人，适用的增值税税率为13%。2×21年12月 发生如下与职工薪酬有关的事项。①12月10日至20日，公司维修人员对一项管理用设备进行日常维修，应付薪酬8.6万元。②12月22日公司将自产的新款空调50台作为福利分配给本公司的行政管理人员，该空调每台成本0.6万元，市场售价0.9万元(不含增值税)。不考虑其他因素，甲公司2×21年12月应计入管理费用的职工薪酬是(   )。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 111,
+        "answerErrorCount": 67,
+        "rightRate": "58"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 4035665,
+        "questionName": "下列关于费用与损失的表述中，正确的有（    ）。",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 113,
+        "answerErrorCount": 67,
+        "rightRate": "57"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3842024,
+        "questionName": "<p>下列有关各企业发行的权益工具的会计处理中，正确的有(   )。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 71,
+        "answerErrorCount": 65,
+        "rightRate": "36"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 4033781,
+        "questionName": "&lt;p&gt;下列项目中，不能指定为以公允价值计量且其变动计入其他综合收的金融资产的有(&amp;nbsp; &amp;nbsp; &amp;nbsp;）。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 80,
+        "answerErrorCount": 64,
+        "rightRate": "46"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023093,
+        "questionName": "<p>下列各项关于企业会计信息质量要求的表述中，正确的有（ &nbsp; &nbsp;）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 137,
+        "answerErrorCount": 64,
+        "rightRate": "66"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3112829,
+        "questionName": "<p>下列关于会计计量属性的表述中，错误的是（  ）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 123,
+        "answerErrorCount": 64,
+        "rightRate": "62"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023370,
+        "questionName": "<p>甲公司为制造业企业，以出包方式建造厂房，建造过程中发生的下列支出中，应计入所建造厂房成本的有（    ）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 95,
+        "answerErrorCount": 62,
+        "rightRate": "49"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3920693,
+        "questionName": "<p>2×17年，甲公司发生与职工薪酬有关的交易或事项如下： (1)以甲公司生产的产品作为福利发放给职工，该产品的生产成本为1500万元，市场价格为1800万元；(2)为职工缴纳200万元的“五险一金”;(3)根据职工入职期限，分别可以享受5 至15天的年休假，当年未用完的带薪休假权利予以取消。甲公司职工平均日工资为120元/人；（4)对管理人员实施2×17 年度的利润分享计划，按当年度利润实现情况，相关管理人员可分享利润500万元。不考虑其他因素，下列各项关于甲公司2×17年与职工薪酬有关会计处理的表述中，正确的有(  ）</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 102,
+        "answerErrorCount": 62,
+        "rightRate": "59"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841755,
+        "questionName": "<p>甲房地产开发商采用公允价值模式计量投资性房地产，有关资料如下：①2×22年6月 1日，将原准备对外出售的A 商品房对外出租，转换日A 商品房的账面余额为1000万元，未计提跌价准备，该项房产在转换日的公允价值为1500万元。②2×22年6月 1日，将原准备对外出售的B 商品房对外出租，转换日 B 商品房的账面价值为 10000万元，未计提跌价准备，该项房产在转换日的公允价值为9000万元。③2×22年 年末上述两项房地产的公允价值分别为2000万元、8900万元。④2×23年6月租赁期 届满收回上述两项房地产准备重新开发对外销售。当日其公允价值分别为2600万元、 8500万元。不考虑其他因素，下列关于A、B 商品房相关会计处理的说法中不正确的 是(   )。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 101,
+        "answerErrorCount": 61,
+        "rightRate": "55"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023479,
+        "questionName": "<p>2×20年6月30日，甲企业与乙企业的一项厂房经营租赁合同到期，甲企业于当日起对厂房进行改造并与乙企业签订了续租合同，约定自改造完工时将厂房继续出租给乙企业。2×20年12月31日厂房改扩建工程完工，共发生支出300万元，当日起按照租赁合同出租给乙企业。甲企业取得该厂房时初始确认金额为2 000万元，预计使用年限为20年，预计净残值为零。甲企业对投资性房地产采用公允价值模式计量，截至2×20年6月30日该厂房已经确认公允价值累计损失的金额为400万元。不考虑其他因素，以下表述不正确的是（    ）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 128,
+        "answerErrorCount": 61,
+        "rightRate": "65"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 4033780,
+        "questionName": "&lt;p&gt;甲公司发生的下列业务中，符合本金加利息的合同现金流量特征的有（&amp;nbsp; &amp;nbsp; ）。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 76,
+        "answerErrorCount": 60,
+        "rightRate": "45"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3105892,
+        "questionName": "<p>20×8年9月16日，甲公司发布短期利润分享计划。根据该计划，甲公司将按照20×8年度利润总额的5％作为奖金，发放给20×8年7月1日至20×9年6月30日在甲公司工作的员工；如果有员工在20×9年6月30日前离职，离职的员工将不能获得奖金；利润分享计划支付总额也将按照离职员工的人数相应降低；该奖金将于20×9年8月30日支付。20×8年度，在未考虑利润分享计划的情况下，甲公司实现利润总额20 000万元。20×8年末，甲公司预计职工离职将使利润分享计划支付总额降低至利润总额的4.5％。不考虑其他因素，甲公司20×8年12月31日因上述短期利润分享计划应当确认的应付职工薪酬金额是（    ）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 115,
+        "answerErrorCount": 60,
+        "rightRate": "75"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3105959,
+        "questionName": "甲公司采用商业汇票结算方式结算已售产品货款，常持有大量的应收票据。甲公司对应收票据进行管理的目标是，将商业汇票持有至到期以收取合同现金流量，同时兼顾流动性需求贴现商业汇票。不考虑其他因素，甲公司上述应收票据在资产负债表中列示的项目是（    ）.",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 71,
+        "answerErrorCount": 57,
+        "rightRate": "42"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023423,
+        "questionName": "&lt;p&gt;甲公司为纺织品来料加工公司。2&times;20年12月，甲公司接受委托方丙公司的来料加工棉纱业务，丙公司发来的来料加工原材料（棉花）的公允价值为400万元。至12月31日，来料加工业务尚未完成，共计领用来料加工原材料（棉花）的40％，发生制造费用340万元。假定甲公司在完成来料加工业务时确认加工收入并结转加工成本。不考虑其他因素，下列有关甲公司存货确认和计量的表述中，正确的有（ &amp;nbsp; &amp;nbsp;）。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 82,
+        "answerErrorCount": 56,
+        "rightRate": "42"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3975596,
+        "questionName": "<p>甲公司自行改造厂房，并于2×24年末完工投入使用，改造厂房期间发生的成本包括：（1）厂房所占用土地使用权的摊销费用150万元；（2）改造厂房正常消耗工程物资和发生人工成本2 800万元；（3）用于改造厂房的其他工程物资报废净损失20万元；（4）为满足厂房安全生产条件，使用按国家规定提取的安全生产费购买新设备支付400万元。不考虑相关税费及其他因素，甲公司改造厂房新增的固定资产账面价值是（　　）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 105,
+        "answerErrorCount": 55,
+        "rightRate": "59"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841598,
+        "questionName": "&lt;p&gt;甲公司为金融企业，2&times;21年发生下列有关经济业务：①2&times;21年5月1日，甲公司将其持有的一笔国债出售给丁公司，账面价值为290万元，售价为300万元，年利率为3.5%。同时，甲公司与丁公司签订了一项回购协议，3个月后由甲公司将该笔国债购 回，回购价为303万元。2&times;21年8月1日，甲公司将该笔国债购回。②2&times;21年1月 1日，甲公司将持有的某公司发行的10年期公司债券出售给戊公司，经协商出售价格 为330万元。同时签订了一项看涨期权合约，期权行权日为2&times;21年12月31日，行权 价为400万元，期权的公允价值(时间价值)为10万元。出售日根据相关信息合理预计 行权日该债券的公允价值为300万元。该债券于2&times;19年1月1日发行，甲公司根据其 管理该债券的业务模式和该债券的合同现金流量特征，将该债券分类为以公允价值计量且其变动计入其他综合收益的金融资产，面值为300万元，年利率6%(等于实际利率),每年年末支付利息，2&times;20年12月31日该债券公允价值为310万元。不考虑其他 因素，下列关于甲公司出售金融资产时的会计处理，正确的有(   )。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 67,
+        "answerErrorCount": 54,
+        "rightRate": "57"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3842002,
+        "questionName": "<p>2×23年年初，甲公司“其他综合收益”科目的余额为240万元。①2×23年7月1日，甲 公司将一项自用房产转为公允价值模式计量的投资性房地产，该房产的账面价值为540万元，转换日的公允价值为800万元；②2×23年8月1日，甲公司以500万元购入 某股票，并将其确认为其他权益工具投资，2×23年12月31日，该股票投资的公允价值 为560万元；③2×23年9月1日，甲公司将一项债权投资重分类为其他债权投资，该项 投资的原账面价值为100万元，在重分类日的公允价值为80万元，该项投资在2×23年 年末未发生公允价值变动也未计提减值。不考虑其他因素，甲公司“其他综合收益”科目在2×23年12月31日的余额为(   )。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 97,
+        "answerErrorCount": 53,
+        "rightRate": "59"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841673,
+        "questionName": "<p>当混合合同包含的主合同不属于金融工具确认和计量准则规范的资产时，下列各项中不 属于企业应当从混合合同中分拆嵌入衍生工具将其作为单独存在的衍生工具处理需要满 足的条件的是(   )。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 70,
+        "answerErrorCount": 52,
+        "rightRate": "47"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023284,
+        "questionName": "&lt;p&gt;2&times;18年1月2日，甲公司与乙公司签订不可撤销的租赁合同，合同规定甲公司租入乙公司一台机器设备，专门用于生产M产品，租赁期为5年，年租金为1 200万元。因M产品在使用过程中造成严重的环境污染，甲公司自2&times;20年1月1日起停止生产该产品，当日M产品库存为零。假定不考虑其他因素，该事项对甲公司2&times;20年度利润总额的影响为（ &amp;nbsp; &amp;nbsp;）万元。&lt;/p&gt;",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 75,
+        "answerErrorCount": 51,
+        "rightRate": "51"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023414,
+        "questionName": "&lt;p&gt;甲公司为增值税一般纳税人，适用的增值税税率为13％，消费税税率为10％。甲公司2&times;20年度发生的部分交易或事项如下：①1月1日，甲公司接受乙公司以一批原材料进行投资，双方签订投资合同约定该批原材料的价值为100万元，但是该批原材料在当地存在活跃市场，市场价格仅为80万元。甲公司于当日收到该批原材料，并取得乙公司开具的增值税专用发票，发票注明增值税税额为10.4万元，甲公司另支付运输费1.09万元（含税金额，税法允许按照9％计算进项税额抵扣），人员差旅费0.2万元；②12月31日库存商品M，账面余额为500万元，未计提存货跌价准备。库存商品M中，有40％已签订销售合同，合同价款为230万元；另60％未签订合同，按照一般市场价格预计销售价格为290万元。库存商品M的预计销售费用和税金共计25万元。下列各项关于甲公司存货的相关表述中，正确的有（ &amp;nbsp; &amp;nbsp;）。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 51,
+        "answerErrorCount": 50,
+        "rightRate": "21"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023790,
+        "questionName": "<p>下列各项关于职工薪酬会计处理的表述中，错误的有（ &nbsp; &nbsp;）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 110,
+        "answerErrorCount": 49,
+        "rightRate": "67"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3907087,
+        "questionName": "&lt;p&gt;下列关于固定资产的会计处理的表述中，错误的是（　）。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 53,
+        "answerErrorCount": 49,
+        "rightRate": "32"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3024256,
+        "questionName": "<p>根据《企业会计准则第13号——或有事项》的规定，重组是指企业制定和控制的，将显著改变企业组织形式、经营范围或经营方式的计划实施行为，下列各项中，符合上述重组定义的交易或事项有（ &nbsp; &nbsp;）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 91,
+        "answerErrorCount": 48,
+        "rightRate": "62"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023045,
+        "questionName": "&lt;p&gt;下列会计基本假设中，导致权责发生制会计基础的产生，以及折旧、摊销等会计处理方法运用的基本假设是（ &amp;nbsp; &amp;nbsp;）。&lt;/p&gt;",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 122,
+        "answerErrorCount": 48,
+        "rightRate": "70"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3907080,
+        "questionName": "<p>甲公司 2×19 年 1 月 1 日从乙公司购入一台不需要安装的 W 型机器作为固定资产使用，该机器已收到。购货合同约定，W 机器的总价款为 3000 万元，分 3 年支付，2×19 年 12 月 31 日支付 1500 万元，2×20 年 12 月 31 日支付900 万元，2×21 年 12 月 31 日支付 600 万元。假定甲公司 3 年期银行借款年利率为 6%，不考虑其他因素，甲公司 2×20 年 12 月 31 日未确认融资费用余额为（ ）万元。已知：（P/F，6%，1）=0.9434；（P/F，6%，2）=0.8900；（P/F，6%，3）=0.8396。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 83,
+        "answerErrorCount": 47,
+        "rightRate": "60"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3787119,
+        "questionName": "&lt;p&gt;企业通过外购方式取得确认为无形资产的数据资源，下列选项中正确的有（&amp;nbsp; &amp;nbsp;）&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 78,
+        "answerErrorCount": 47,
+        "rightRate": "56"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023491,
+        "questionName": "<p>甲公司对投资性房地产采用成本模式进行后计。自2×19年12月31日起，甲公司将一项投资性房地产出租给某单位，租期为4年，每年收取租金650万元。该投资性房地产原价为12 000万元，预计使用年限为40年，预计净残值为零；至出租时已使用10年，累计折旧3 000万元。2×20年12月31日，甲公司在对该投资性房地产进行减值测试时，发现该投资性房地产的可收回金额为8 800万元。假定不考虑相关税费，该投资性房地产对甲公司2×20年利润总额的影响金额为（ &nbsp; &nbsp;）万元。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 122,
+        "answerErrorCount": 46,
+        "rightRate": "71"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3580485,
+        "questionName": "&lt;p&gt;2&times;22年10月30日，甲公司公布了经董事会批准的员工结构优化计划，50岁以上生产部门的员工，45岁以上研发部门和销售部门的员工，可自愿选择离职，按服务年限获得相应的补偿金，在办理离职手续后半年内按月平均支付。该计划自公布之日起立即生效且不可撤销，有效期至2&times;23年2月28日。2&times;22年11月，部分员工自愿选择离职，并于2&times;22年11月30日办理离职手续，应支付的补偿金为240万元，2&times;22年12月又有部分员工自愿办理离职，并于2&times;22年12月31日办理离职手续，应支付的补偿金为300万元。此外，甲公司预计在2&times;23年上述计划有效期内，很可能还会有部分员工选择离职，预计应支付的补偿金为200万元。不考虑其他因素，甲公司于2&times;22年度应确认的辞退福利费用金额是(&amp;nbsp;&amp;nbsp;&amp;nbsp; )。&amp;nbsp;&amp;nbsp;&lt;/p&gt;",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 112,
+        "answerErrorCount": 46,
+        "rightRate": "70"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3115769,
+        "questionName": "<p>下列关于职工与职工薪酬的说法中，不正确的是（）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 93,
+        "answerErrorCount": 46,
+        "rightRate": "65"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841723,
+        "questionName": "&lt;p&gt;甲公司从事土地开发与建设业务，2&times;22年1月2日，以转让方式取得一宗土地使用权，实际成本为1200万元，预计使用年限为50年，取得当月甲公司在该地块上开工建造自用办公楼。至2&times;22年12月31日，办公楼尚未达到可使用状态，以银行存款支付工程成本3000万元。2&times;22年12月31日，甲公司董事会决定将该办公楼建成后用于对外出租，当日，上述土地使用权的公允价值为1300万元，在建办公楼的公允价值无法可  靠确定。甲公司对作为无形资产核算的土地使用权采用直线法摊销，对作为固定资产核算的地上建筑物采用年限平均法计提折旧，土地使用权及地上建筑物的预计净残值均为零，均未计提减值准备，对投资性房地产采用公允价值模式进行后续计量。不考虑其他因素，甲公司下列会计处理的表述中，不正确的是(   )。&lt;/p&gt;",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 113,
+        "answerErrorCount": 45,
+        "rightRate": "69"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023202,
+        "questionName": "<p>在确定存货的可变现净值时，应当考虑的因素有（ &nbsp; &nbsp;）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 57,
+        "answerErrorCount": 45,
+        "rightRate": "40"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023263,
+        "questionName": "<p>甲公司以出包方式建造厂房。建造过程中发生的下列业务或事项不影响所建造固定资产成本的是（    ）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 87,
+        "answerErrorCount": 45,
+        "rightRate": "58"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023648,
+        "questionName": "&lt;p&gt;下列各项中，属于固定资产减值测试时预计其未来现金流量不应考虑的因素有（ &amp;nbsp; &amp;nbsp;）。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 70,
+        "answerErrorCount": 45,
+        "rightRate": "56"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841713,
+        "questionName": "<p>2×23年1月1日，A 公司出资3000万元成立一家子公司B 公司。B 公司2×23年实现净 利润2500万元。2×23年12月31日，B 公司的净资产为5500万元，其中，实收资本 3000万元，盈余公积250万元，未分配利润2250万元。2×24年1月1日，乙公司对B 公司增资4000万元，A公司的持股比例由100%下降至40%,至此A公司丧失对B公司 的控制权，但是仍能对B公司产生重大影响。增资后，B公司的净资产为9500万元。A 公司按净利润的10%提取法定盈余公积，不提取任意盈余公积。不考虑相关税费等其他 因素影响。下列关于A公司个别财务报表账务处理表述中，正确的是(   )。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 66,
+        "answerErrorCount": 45,
+        "rightRate": "50"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023365,
+        "questionName": "<p>经国家审批，某企业计划建造一座核电站，其主体设备核反应堆将会对当地的生态环境产生一定的影响。根据法律规定，企业应在该项设备使用期满后将其拆除，并对造成的污染进行整治。2013年1月1日，该项设备建造完成并交付使用，建造成本共100 000万元。预计使用寿命20年，预计弃置费用为1 000万元。假定折现率（即为实际利率）为10％。已知（P/F，10％，20）＝0.14864。不考虑其他因素，下列正确的会计处理有（    ）。（计算结果保留两位小数）</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 73,
+        "answerErrorCount": 43,
+        "rightRate": "54"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 4035664,
+        "questionName": "&lt;p&gt;A公司为甲、乙、丙和丁四公司提供银行借款担保。下列各项中，A公司不应确认负债的有（&amp;nbsp; &amp;nbsp; &amp;nbsp;）。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 112,
+        "answerErrorCount": 41,
+        "rightRate": "72"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3975607,
+        "questionName": "<p>甲公司2×22年至2×25年发生以下交易或事项：2×22年12月31日购入一栋办公楼供管理部门使用，实际取得成本为3 000万元。该办公楼预计使用年限为20年，预计净残值为零，采用年限平均法计提折旧。因公司迁址，2×25年6月30日（2.5年后）甲公司与乙公司签订租赁协议。该协议约定：甲公司将上述办公楼租赁给乙公司，租赁期开始日为协议签订日，租赁期2年，年租金150万元，每半年支付一次。租赁协议签订日该办公楼的公允价值为2 800万元。甲公司对投资性房地产采用公允价值模式进行后续计量。2×25年12月31日，该办公楼的公允价值为2 200万元。上述交易或事项对甲公司2×25年度营业利润的影响金额是（　　）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 106,
+        "answerErrorCount": 41,
+        "rightRate": "71"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3975599,
+        "questionName": "<p>2×24年1月1日，甲公司从乙公司购入一项无形资产，由于资金周转紧张，甲公司与乙公司协议以分期付款方式支付款项。协议约定：该无形资产作价2 000万元，甲公司每年年末付款400万元，分5年付清。假定银行同期贷款利率为5%，5年期5%利率的年金现值系数为4.3295。不考虑其他因素，下列甲公司与该无形资产相关的会计处理中，正确的有（　　）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 83,
+        "answerErrorCount": 41,
+        "rightRate": "58"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3579990,
+        "questionName": "<p>关于共同控制，下列说法中正确的是(   ) 。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 63,
+        "answerErrorCount": 40,
+        "rightRate": "52"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023260,
+        "questionName": "&lt;p&gt;某公司于2&times;20年9月20日对一条生产线进行更新改造，该生产线原价为2 000万元，预计使用年限为8年，已经使用2年，预计净残值为0，未计提减值准备，按年限平均法计提折旧。更新改造过程中领用本公司产品一批，计入在建工程的价值为184万元，发生人工费用100万元，领用工程用物资280万元；用一台400万元的部件替换生产线中一已报废原部件，被替换部件原值450万元（被替换部件已无使用价值，残值为0）。该改造工程于当年12月31日达到预定可使用状态并交付生产使用，该生产线生产产品当期全部对外销售。不考虑其他因素，该生产线的生产和改造影响2&times;20年利润总额的金额为（ &amp;nbsp; &amp;nbsp;）万元。&lt;/p&gt;",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 47,
+        "answerErrorCount": 40,
+        "rightRate": "33"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3907093,
+        "questionName": "<p>下列关于存货的确认和计量表述中，正确的有（ ）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 85,
+        "answerErrorCount": 40,
+        "rightRate": "61"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3350560,
+        "questionName": "<p>下列项目中，不属于借款费用的是（　　）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 97,
+        "answerErrorCount": 39,
+        "rightRate": "72"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 4039835,
+        "questionName": "&lt;p&gt;甲公司为一家农产品开发上市公司。乙公司有一项茶叶开采专利技术。甲公司预计若能利用乙公司的该项专利技术，可使茶农开采能力提高10%，从而很可能使自己当年销售利润率增长5%，甲公司与乙公司协商，乙公司以该专利技术投资于甲公司，投资合同约定的价格为400万元(与公允价值相同)，占甲公司股份的2%(20万股，每股面值1元)。甲公司另外支付相关税费2万元，专业人员服务费1万元，为宣传茶叶开采新技术发生广告费4.5万元。不考虑其他因素影响，下列各项关于甲公司该专利技术的账务处理中，错误的有()。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 71,
+        "answerErrorCount": 39,
+        "rightRate": "61"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3022137,
+        "questionName": "<p>下列有关会计要素计量属性的表述中，不正确的是（    ）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 108,
+        "answerErrorCount": 39,
+        "rightRate": "75"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3379504,
+        "questionName": "<p>下列各项关于企业会计信息质量要求的表述中，正确的是（    ）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 112,
+        "answerErrorCount": 38,
+        "rightRate": "77"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023184,
+        "questionName": "<p>下列各项业务中，不会引起期末存货的账面价值发生增减变动的是（    ）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 58,
+        "answerErrorCount": 38,
+        "rightRate": "49"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841745,
+        "questionName": "&lt;p&gt;2&times;23年4月15日，甲公司以1600万元的售价将其持有的一项其他权益工具投资出售， 并支付手续费30万元。该项金融资产是甲公司于2&times;22年6月8日购入的，购入时支付  价款1400万元，其中包含手续费20万元以及被投资单位已宣告但尚未发放的现金股利  60万元。2&times;22年7月11日，甲公司收到上述股利。2&times;22年末，该项金融资产的公允价  值为1300万元。甲公司按照净利润的10%计提法定盈余公积，不计提任意盈余公积。 不考虑其他因素，甲公司因持有该项金融资产影响留存收益的金额为(    )。&lt;/p&gt;",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 70,
+        "answerErrorCount": 38,
+        "rightRate": "72"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3975629,
+        "questionName": "<p>2×24年7月1日，甲公司以150万元的市场价格购买了一套公寓。当日，甲公司以100万元的价格向其一名管理人员出售该公寓，并约定该管理人员自购买该公寓起需为甲公司提供服务满5年，若该管理人员工作不满5年离职，需按甲公司购买价格与出售价格之间的差额补足给甲公司。甲公司预计该管理人员5年内不会离职。不考虑相关税费及其他因素，甲公司2×24年度因出售该公寓应确认的职工薪酬费用是（　　）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 102,
+        "answerErrorCount": 38,
+        "rightRate": "71"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3107365,
+        "questionName": "下列各项有关无形资产会计处理的表述中，正确的有(    )。",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 66,
+        "answerErrorCount": 38,
+        "rightRate": "56"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023179,
+        "questionName": "&lt;p&gt;甲公司和乙公司均为增值税一般纳税人，适用的增值税税率为13％。甲公司委托乙公司代为加工一批属于应税消费品的原材料，该批委托加工原材料收回后用于继续加工应税消费品。发出原材料实际成本为620万元，支付的不含增值税的加工费为100万元，增值税税额为13万元，乙公司代收代缴的消费税税额为80万元。该批委托加工原材料甲公司已验收入库，其实际成本为（ &amp;nbsp; &amp;nbsp;）万元。&lt;/p&gt;",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 95,
+        "answerErrorCount": 38,
+        "rightRate": "66"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3106482,
+        "questionName": "<p>下列各项关于无形资产会计处理的表述中，错误的有（　　）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 86,
+        "answerErrorCount": 38,
+        "rightRate": "64"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023512,
+        "questionName": "<p>下列关于投资性房地产与非投资性房地产转换的会计处理的表述中，正确的有（    ）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 105,
+        "answerErrorCount": 38,
+        "rightRate": "75"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3975649,
+        "questionName": "&lt;p&gt;2&times;18年，甲公司及其子公司发生的相关交易或事项如下：（1）因乙公司的信用等级下降，甲公司将持有并分类为以摊余成本计量的乙公司债券全部出售，同时将该类别的债权投资全部重分类为以公允价值计量且其变动计入其他综合收益的金融资产；（2）因考虑公允价值变动对净利润的影响，甲公司将持有丙公司8%的股权投资从以公允价值计量且其变动计入当期损益的金融资产，重分类为以公允价值计量且其变动计入其他综合收益的金融资产；（3）甲公司的子公司（风险投资机构）新取得丁公司36%股权并对其具有重大影响，对其投资采用公允价值计量；（4）甲公司对戊公司增资，所持戊公司股权由30%增加至60%，并能够对戊公司实施控制，甲公司将对戊公司的股权投资核算方法由权益法改为成本法。下列各项关于甲公司及其子公司上述交易或事项会计处理的表述中，正确的有（　　）。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 65,
+        "answerErrorCount": 38,
+        "rightRate": "54"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023255,
+        "questionName": "<p>对于高危企业发生的安全生产费用，下列说法正确的是（    ）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 83,
+        "answerErrorCount": 37,
+        "rightRate": "64"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3842006,
+        "questionName": "<p>下列关于政府会计主体投资业务会计核算的表述中，不正确的是(   )。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 55,
+        "answerErrorCount": 37,
+        "rightRate": "46"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841719,
+        "questionName": "<p>甲公司采用年限平均法对固定资产计提折旧，2×22年发生的有关交易或事项如下：为遵守国家有关环保的法律规定，2×22年1月31日，甲公司对A 生产设备进行停工改造， 安装环保装置。3月25日，新安装的环保装置达到预定可使用状态并交付使用，共发生成本600万元。A 生产设备的成本为18000万元，至1月31日，已计提折旧9000万元， 未计提减值准备。A 生产设备预计使用16年，已使用8年，安装环保装置后还可使用 8年；环保装置预计使用5年，预计净残值均为零。不考虑其他因素，甲公司的A 生产设备及环保装置在2×22年度应计提的折旧金额为(   )。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 75,
+        "answerErrorCount": 37,
+        "rightRate": "61"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3106088,
+        "questionName": "&lt;p&gt;下列各项关于增值税会计处理的表述中，正确的有（    ）。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 46,
+        "answerErrorCount": 36,
+        "rightRate": "43"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023253,
+        "questionName": "<p>甲公司2×18年6月30日将一栋自用办公楼进行处置，收取价款380万元。该办公楼为2×14年自行开发建造的，于2×14年12月31日完工并投入使用，入账成本为490万元。甲公司对该项办公楼采用直线法计提折旧，预计净残值为10万，预计使用寿命为20年。至2×17年末，该办公楼出现减值迹象，可收回金额为340万元。减值后原使用寿命和折旧方法不变，预计净残值为0。假定不考虑其他因素，处置该项办公楼对2×18年损益的影响金额为（ &nbsp; &nbsp;）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 81,
+        "answerErrorCount": 36,
+        "rightRate": "68"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841689,
+        "questionName": "<p>下列各项关于投资性房地产后续计量模式的表述中，正确的有(   )。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 120,
+        "answerErrorCount": 35,
+        "rightRate": "77"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3548034,
+        "questionName": "<p>下列关于企业合并的表述中，正确的有（&nbsp; &nbsp;）</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 82,
+        "answerErrorCount": 35,
+        "rightRate": "69"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3842030,
+        "questionName": "<p>甲公司的记账本位币为人民币，以交易发生日的即期汇率折算外币业务。2×22年1月 1日，甲公司开始建造一栋办公楼，预计工期为2年。为建造该办公楼，甲公司于  2×21年12月31日借入一笔外币专门借款，本金为500万美元，年利率为5%,自 2×22年起每年年末支付当年度利息。甲公司另有一笔外币一般借款，该借款于2×22年 1月1日借入，本金为600万美元，年利率为6%,年末支付当年度利息。该项工程分别 于开工日、2×22年6月30日支付工程款400万美元、500万美元。2×21年12月31日、2×22年1月1日的即期汇率均为1美元=6.3元人民币；2×22年12月31日的即期汇率 为1美元=6.2元人民币。不考虑其他因素，下列关于甲公司外币借款汇兑差额的表述 中，正确的有(   )。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 65,
+        "answerErrorCount": 34,
+        "rightRate": "61"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023815,
+        "questionName": "&lt;p&gt;下列关于亏损合同的处理，说法正确的有（ &amp;nbsp; &amp;nbsp;）。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 90,
+        "answerErrorCount": 34,
+        "rightRate": "71"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3907092,
+        "questionName": "<p>下列各项有关固定资产会计处理的表述中，错误的有（ ）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 53,
+        "answerErrorCount": 34,
+        "rightRate": "51"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 4035720,
+        "questionName": "<p>下列各项中，不应作为企业存货核算的是（&nbsp; &nbsp; ）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 96,
+        "answerErrorCount": 34,
+        "rightRate": "73"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3992852,
+        "questionName": "<p>不考虑其他因素，下列各项企业发生的支出中，应计入存货成本的有（ ）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 98,
+        "answerErrorCount": 33,
+        "rightRate": "72"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3975594,
+        "questionName": "<p>甲公司自行建造一个矿井，于2×23年末完工并办理竣工决算手续，累计发生的支出包括：（1）消耗材料支出5 000万元；（2）外包第三方乙公司进行建筑施工，合同价款为3 000万元，已支付给乙公司2 500万；（3）建造期间发生工程物料收发计量差错盘亏100万元。此外，甲公司预计采矿结束后需进行环境恢复，预计发生的支出现值为200万元。2×23年末甲公司上述矿井的成本为（　　）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 85,
+        "answerErrorCount": 33,
+        "rightRate": "68"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023182,
+        "questionName": "<p>甲公司库存A产成品的月初数量为1 000台，月初账面余额为8 000万元；A在产品的月初数量为400台，月初账面余额为600万元。当月为生产A产品耗用原材料、发生直接人工和制造费用共计15 400万元，其中包括因台风灾害而发生的停工损失300万元。当月，甲公司完成生产并入库A产成品2 000台，销售A产成品2 400台。月末甲公司库存A产成品数量为600台，无在产品。甲公司采用一次加权平均法按月计算发出A产成品的成本。不考虑其他因素，甲公司A产成品月末的账面余额为（ &nbsp; &nbsp;）万元。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 87,
+        "answerErrorCount": 33,
+        "rightRate": "70"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3580467,
+        "questionName": "<p>下列关于相关性的说法，错误的是（  )</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 113,
+        "answerErrorCount": 33,
+        "rightRate": "80"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3374871,
+        "questionName": "<p>甲公司于 2×19 年 1 月 1 日以银行存款 2000 万元取得乙公司 5%的股权，对乙公司不具有重大影响，甲公司将其指定为以公允价值计量且其变动计入其他综合收益的金融资产，按公允价值计量。2×19 年 12 月 31 日，该项股权投资的公允价值为 2300 万元。2×20 年 5 月 1 日，甲公司又斥资 20000 万元自丙公司取得乙公司另外 50%的股权，并于当日取得乙公司控制权，当日乙公司可辨认净资产的公允价值为 42000 万元。假定甲公司在取得对乙公司的长期股权投资以后，乙公司未宣告发放现金股利。甲公司原持有乙公司 5%股权于 2×20 年 4 月 30 日的公允价值为 2500 万元。甲公司与丙公司及乙公司在此之前不存在任何关联方关系。2×20 年 5 月 1 日，甲公司再次取得乙公司的投资后，长期股权投资的初始投资成本为（ ）万元。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 63,
+        "answerErrorCount": 33,
+        "rightRate": "62"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841840,
+        "questionName": "<p>甲公司为制造企业，其在日常经营活动中发生的下列费用或损失，不应当计入存货成本的有(   )。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 76,
+        "answerErrorCount": 33,
+        "rightRate": "65"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023170,
+        "questionName": "&lt;p&gt;甲公司2&times;20年年末库存乙原材料、丁产成品的账面余额分别为1 000万元和500万元；年末计提存货跌价准备前库存乙原材料、丁产成品存货跌价准备的账面余额分别为0和100万元。库存乙原材料将全部用于生产丙产品，无其他用途。预计生产的丙产成品的市场价格总额为1 100万元，预计生产丙产成品还需发生成本为300万元，预计为销售丙产成品将发生的相关税费总额为55万元。丙产成品中签有不可撤销的固定销售合同的占80％，合同价格总额为900万元。丁产成品的市场价格总额为350万元，预计销售丁产成品发生的相关税费总额为18万元。假定不考虑其他因素，甲公司2&times;20年12月31日应计提的存货跌价准备金额为（ &amp;nbsp; &amp;nbsp;）万元。&lt;/p&gt;",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 66,
+        "answerErrorCount": 33,
+        "rightRate": "59"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841752,
+        "questionName": "<p>甲公司于2×23年1月1日以2500万元的价格收购了乙公司80%的股权。在购买日，乙 公司可辨认净资产的公允价值为3000万元，假定乙公司没有负债和或有负债。甲公司 在购买日编制的合并资产负债表中确认商誉100万元、乙公司可辨认净资产3000万元(与账面价值一致)。假定乙公司的所有资产被认定为一个资产组。在2×23年末，该资产组中的可辨认资产本身并不存在减值迹象，但由于该资产组包括商誉，因此，甲公司 至少应当在每年年度终了进行减值测试：甲公司确定该资产组的可收回金额为2800万元，自购买日开始持续计算的可辨认净资产的账面价值为2700万元。假定不考虑其他因素，则2×23年末甲公司合并财务报表中应确认的商誉减值准备为(   )。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 38,
+        "answerErrorCount": 33,
+        "rightRate": "30"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023280,
+        "questionName": "<p>甲公司对其所销售产品承担售后保修义务，“预计负债一产品质量保证”明细科目2×20年年初余额为1 000万元，包含计提的C产品保修费用400万元。本期发生保修费用700万元，其中有C产品保修费用300万元。本期销售A产品10 000万元，保修费用计提比例为销售额的1.5％，销售B产品8 000万元（不含增值税税额），保修费用计提比例为销售额的2.5％，C产品已不再销售且已售C产品保修期已过。不考虑其他因素，甲公司“预计负债——产品质量保证”明细科目2×20年年末余额为（ &nbsp; &nbsp;）万元。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 78,
+        "answerErrorCount": 33,
+        "rightRate": "67"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841573,
+        "questionName": "<p>甲公司采用成本模式计量投资性房地产。有关资料如下：①甲公司于2×21年12月31日 将一项自用固定资产转为投资性房地产。在转换日，该固定资产的公允价值为25000万元，“固定资产”科目余额为22000万元，“累计折旧”科目余额为1000万元，“固定资 产减值准备”科目余额为100万元。②甲公司于2×23年12月31日将上述投资性房地产 转为自用固定资产，在转换日，该投资性房地产的公允价值为30000万元，“投资性房 地产累计折旧”科目余额为2000万元。该资产在作为投资性房地产核算期间未发生减值。下列关于转换日会计处理的说法中不正确的是(    )。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 97,
+        "answerErrorCount": 33,
+        "rightRate": "75"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841641,
+        "questionName": "<p>下列会计处理方法中表述正确的有(   )。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 67,
+        "answerErrorCount": 32,
+        "rightRate": "60"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3842017,
+        "questionName": "<p>下列各项关于固定资产折旧的会计处理中，不符合准则规定的有(   )。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 68,
+        "answerErrorCount": 32,
+        "rightRate": "64"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841761,
+        "questionName": "&lt;p&gt;关于以账面价值为基础进行计量的非货币性资产交换的会计处理，下列表述中正确的有(   )。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 35,
+        "answerErrorCount": 32,
+        "rightRate": "36"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023272,
+        "questionName": "<p>2×13年10月5日，东明公司与长江公司签订了一项不可撤销的销售合同，合同规定，2×14年3月20日，东明公司需向长江公司销售一批A产品，产品售价为500万元。如果公司单方面撤销该合同，需向对方支付违约金80万元。至2×14年东明公司该产品尚未开始生产，由于产品原料价格上涨东明公司预计产品成本为550万元。假定不考虑其他因素，下列说法中正确的是（ &nbsp; &nbsp;）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 86,
+        "answerErrorCount": 32,
+        "rightRate": "71"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023422,
+        "questionName": "&lt;p&gt;对于需要加工才能对外销售的在产品，下列各项中，属于在确定其可变现净值时应考虑的因素有（ &amp;nbsp; &amp;nbsp;）。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 55,
+        "answerErrorCount": 31,
+        "rightRate": "58"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3342969,
+        "questionName": "<p>2×19年2月1日，甲公司以增发1000万股本公司普通股股票和一台大型设备为对价，取得乙公司20%股权。其中，所发行普通股面值为每股1元，公允价值为每股10元。为增发股份，甲公司向证券承销机构等支付佣金和手续费800万元。用作对价的设备账面价值为1000万元，公允价值为1200万元。当日，乙公司可辨认净资产公允价值为60000万元。假定甲公司能够对乙公司施加重大影响。不考虑其他因素，甲公司该项长期股权投资的初始投资成本为（ &nbsp; ）万元。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 64,
+        "answerErrorCount": 31,
+        "rightRate": "65"
+      }
+    ],
+    "success": true
+  }
+}

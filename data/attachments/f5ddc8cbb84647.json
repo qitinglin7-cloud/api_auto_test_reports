@@ -1,0 +1,41 @@
+{
+  "status_code": 200,
+  "body": {
+    "status": {
+      "code": 0,
+      "msg": "OK",
+      "tips": "OK"
+    },
+    "data": {
+      "categoryId": 5847,
+      "productId": 266768,
+      "categoryName": "会计",
+      "categoryAlias": "会计",
+      "name": "默认计划",
+      "originalDetail": null,
+      "detail": "",
+      "type": 3,
+      "canModify": 1,
+      "reason": 0,
+      "reasonSting": "",
+      "studyOpen": 1,
+      "noOpenMsg": null,
+      "noOpenWebMsg": null,
+      "skipStepOne": 1,
+      "startTime": 1780243200000,
+      "startTimeStr": "2026年06月01日",
+      "dayNumPerWeek": 2,
+      "planCompleted": true,
+      "day": "56",
+      "dailyStudyLength": 2.0,
+      "assessmentButtonShow": null,
+      "assessmentPaperId": null,
+      "waitManualStudyOpenMsg": null,
+      "waitManualWebStudyOpenMsg": null,
+      "endTime": 1788105600000,
+      "haveUserSetting": 1,
+      "manualStudyOpen": false
+    },
+    "success": true
+  }
+}

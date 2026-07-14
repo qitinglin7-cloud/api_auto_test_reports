@@ -1,0 +1,68 @@
+{
+  "status_code": 200,
+  "body": {
+    "status": {
+      "code": 0,
+      "msg": "OK",
+      "tips": "OK"
+    },
+    "data": [
+      {
+        "paperId": 381190,
+        "paperType": 2,
+        "paperName": "2025-注会-会计-回忆版真题卷",
+        "level": 2,
+        "joinNum": 146,
+        "state": 2,
+        "answerId": "1503410287948480512",
+        "score": "0.0",
+        "pdfDownUrl": "https://oss-hqwx-edu24ol.hqwx.com/F0864F/20251016/paper/p2_381190_1760598014839.pdf"
+      },
+      {
+        "paperId": 325343,
+        "paperType": 2,
+        "paperName": "2024-注会-会计-回忆版真题卷",
+        "level": 2,
+        "joinNum": 232,
+        "state": 2,
+        "answerId": "1484567827075977216",
+        "score": "4.0",
+        "pdfDownUrl": "https://oss-hqwx-edu24ol.hqwx.com/paper/p2_325343_1740471948974.pdf"
+      },
+      {
+        "paperId": 270840,
+        "paperType": 2,
+        "paperName": "2023-注会-会计-官方真题卷",
+        "level": 2,
+        "joinNum": 149,
+        "state": 0,
+        "answerId": null,
+        "score": null,
+        "pdfDownUrl": "https://oss-hqwx-edu24ol.hqwx.com/F0864F/20251016/paper/p2_270840_1760598008926.pdf"
+      },
+      {
+        "paperId": 173286,
+        "paperType": 2,
+        "paperName": "2022-注会-会计-官方真题卷",
+        "level": 3,
+        "joinNum": 225,
+        "state": 2,
+        "answerId": "1370338765501300736",
+        "score": "4.0",
+        "pdfDownUrl": "https://oss-hqwx-edu24ol.hqwx.com/F0864F/20250409/paper/p2_173286_1744190541143.pdf"
+      },
+      {
+        "paperId": 270838,
+        "paperType": 2,
+        "paperName": "2021-注会-会计-官方真题卷",
+        "level": null,
+        "joinNum": 32,
+        "state": 0,
+        "answerId": null,
+        "score": null,
+        "pdfDownUrl": "https://oss-hqwx-edu24ol.hqwx.com/F0864F/20251016/paper/p2_270838_1760598007226.pdf"
+      }
+    ],
+    "success": true
+  }
+}

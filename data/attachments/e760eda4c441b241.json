@@ -1,0 +1,1117 @@
+{
+  "status_code": 200,
+  "body": {
+    "status": {
+      "code": 0,
+      "msg": "OK",
+      "tips": "d34813b94e914e2ff2b7709252546d52",
+      "time": "1784023199469"
+    },
+    "data": [
+      {
+        "lesson": {
+          "id": 3770937,
+          "name": "社会主义基本经济制度的内涵",
+          "type": 6,
+          "status": 1,
+          "sort": 1,
+          "publishDate": 1772704767000,
+          "stage": null,
+          "textAudioList": [
+            {
+              "teacherId": 1000000,
+              "teacherName": "秀秀",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/deccec4d56714735be0a2d64c557c10d.png",
+              "duration": 77,
+              "url": "https://oss-hqwx-video.hqwx.com/1217373_audio-1772704770680.mp3",
+              "resourceId": 1217373,
+              "lessonId": 3770937
+            },
+            {
+              "teacherId": 1000001,
+              "teacherName": "峰峰",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/8c4f4241425d4136b316fa285c200843.png",
+              "duration": 69,
+              "url": "https://oss-hqwx-video.hqwx.com/1217374_audio-1772704773791.mp3",
+              "resourceId": 1217374,
+              "lessonId": 3770937
+            },
+            {
+              "teacherId": 1000002,
+              "teacherName": "青青",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/168fb2ce8fab44a48310cc640213e651.png",
+              "duration": 68,
+              "url": "https://oss-hqwx-video.hqwx.com/1217375_audio-1769071428973.mp3",
+              "resourceId": 1217375,
+              "lessonId": 3770937
+            },
+            {
+              "teacherId": 1000003,
+              "teacherName": "腾腾",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/528ede478ea74b1da1452a8675b5c813.png",
+              "duration": 68,
+              "url": "https://oss-hqwx-video.hqwx.com/1217376_audio-1769071432391.mp3",
+              "resourceId": 1217376,
+              "lessonId": 3770937
+            },
+            {
+              "teacherId": 1000010,
+              "teacherName": "四川晴儿",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260305/4b6ef8791de249d9be1bed05f3cb24e7.png",
+              "duration": 223696,
+              "url": "https://oss-hqwx-video.hqwx.com/1308127_audio-1772704793298.wav",
+              "resourceId": 1308127,
+              "lessonId": 3770937
+            },
+            {
+              "teacherId": 1000011,
+              "teacherName": "四川程川",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260305/28de201c2d704bcaa6dff447ac9ebe44.png",
+              "duration": 223696,
+              "url": "https://oss-hqwx-video.hqwx.com/1308128_audio-1772704813795.wav",
+              "resourceId": 1308128,
+              "lessonId": 3770937
+            },
+            {
+              "teacherId": 1000012,
+              "teacherName": "上海阿珍",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260305/ed0f107163394b4584194fc35430862e.png",
+              "duration": 223696,
+              "url": "https://oss-hqwx-video.hqwx.com/1308129_audio-1772704832164.wav",
+              "resourceId": 1308129,
+              "lessonId": 3770937
+            },
+            {
+              "teacherId": 1000013,
+              "teacherName": "天津李彼得",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260305/a155587ded0c4c06b85af07bde2c6917.png",
+              "duration": 223696,
+              "url": "https://oss-hqwx-video.hqwx.com/1308130_audio-1772704847512.wav",
+              "resourceId": 1308130,
+              "lessonId": 3770937
+            },
+            {
+              "teacherId": 1000014,
+              "teacherName": "粤语阿清",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260305/707da1d25a48449ca295d0a42cdbc361.png",
+              "duration": 223696,
+              "url": "https://oss-hqwx-video.hqwx.com/1308131_audio-1772704868109.wav",
+              "resourceId": 1308131,
+              "lessonId": 3770937
+            },
+            {
+              "teacherId": 1000015,
+              "teacherName": "北京晓东",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260305/259046f301bc43328e7b1670bc078fcc.png",
+              "duration": 223696,
+              "url": "https://oss-hqwx-video.hqwx.com/1308132_audio-1772704882962.wav",
+              "resourceId": 1308132,
+              "lessonId": 3770937
+            }
+          ],
+          "inclassExtend": null,
+          "importanceLevel": null,
+          "homework": {
+            "id": 242097,
+            "name": null,
+            "type": 1,
+            "deadline": null,
+            "questionIdList": [
+              3984601
+            ]
+          },
+          "published": true,
+          "homeworkId": 242097
+        },
+        "studyResult": {
+          "lessonId": 3770937,
+          "lessonType": null,
+          "studyLength": null,
+          "studyStatus": 1,
+          "latestStudyLogId": null,
+          "latestStudyTime": 1783929084000,
+          "firstStudyTime": 1783061899000,
+          "homeworkStatus": 1,
+          "readOverConfig": null,
+          "readOverStatus": null,
+          "lastReadOverAnswerId": null,
+          "paperReadOverScore": null,
+          "lastAnswerId": "1405856395224825856",
+          "lastAnswerTime": "2025-08-15 10:11",
+          "lastAnswerTimeLong": 1755223879000,
+          "message": null,
+          "finishPercent": null,
+          "didHomework": true,
+          "isFinished": true
+        },
+        "lessonDataDoc": null,
+        "lessonStudyResultDoc": null,
+        "bisLock": 0,
+        "bisFocus": 0
+      },
+      {
+        "lesson": {
+          "id": 3771290,
+          "name": "社会主义公有制的内涵、基本形式及重要作用",
+          "type": 6,
+          "status": 1,
+          "sort": 2,
+          "publishDate": 1772703495000,
+          "stage": null,
+          "textAudioList": [
+            {
+              "teacherId": 1000000,
+              "teacherName": "秀秀",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/deccec4d56714735be0a2d64c557c10d.png",
+              "duration": 108,
+              "url": "https://oss-hqwx-video.hqwx.com/1217668_audio-1772703498922.mp3",
+              "resourceId": 1217668,
+              "lessonId": 3771290
+            },
+            {
+              "teacherId": 1000001,
+              "teacherName": "峰峰",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/8c4f4241425d4136b316fa285c200843.png",
+              "duration": 97,
+              "url": "https://oss-hqwx-video.hqwx.com/1217669_audio-1772703502092.mp3",
+              "resourceId": 1217669,
+              "lessonId": 3771290
+            },
+            {
+              "teacherId": 1000002,
+              "teacherName": "青青",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/168fb2ce8fab44a48310cc640213e651.png",
+              "duration": 102,
+              "url": "https://oss-hqwx-video.hqwx.com/1217670_audio-1754553110305.mp3",
+              "resourceId": 1217670,
+              "lessonId": 3771290
+            },
+            {
+              "teacherId": 1000003,
+              "teacherName": "腾腾",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/528ede478ea74b1da1452a8675b5c813.png",
+              "duration": 96,
+              "url": "https://oss-hqwx-video.hqwx.com/1217671_audio-1754553109788.mp3",
+              "resourceId": 1217671,
+              "lessonId": 3771290
+            },
+            {
+              "teacherId": 1000004,
+              "teacherName": "湾区大叔",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260304/db4df1547cdc48e987f3ccfeb4085110.png",
+              "duration": 128,
+              "url": "https://oss-hqwx-video.hqwx.com/1308106_audio-1772703515091.mp3",
+              "resourceId": 1308106,
+              "lessonId": 3771290
+            },
+            {
+              "teacherId": 1000005,
+              "teacherName": "湾湾小何",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260304/20b86c94adff4cd18e8e0cb1cdaf7d2e.png",
+              "duration": 101,
+              "url": "https://oss-hqwx-video.hqwx.com/1308107_audio-1772703525883.mp3",
+              "resourceId": 1308107,
+              "lessonId": 3771290
+            },
+            {
+              "teacherId": 1000006,
+              "teacherName": "京腔侃爷",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260304/96e76484cf1a44b9af4dee70f375e998.png",
+              "duration": 101,
+              "url": "https://oss-hqwx-video.hqwx.com/1308108_audio-1772703535619.mp3",
+              "resourceId": 1308108,
+              "lessonId": 3771290
+            },
+            {
+              "teacherId": 1000007,
+              "teacherName": "呆萌川妹",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260304/658435167d214090bc4dd54f619374bc.png",
+              "duration": 110,
+              "url": "https://oss-hqwx-video.hqwx.com/1308109_audio-1772703547848.mp3",
+              "resourceId": 1308109,
+              "lessonId": 3771290
+            },
+            {
+              "teacherId": 1000008,
+              "teacherName": "沪普男",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260304/c258753390fe42269b92ad7fc40c183b.png",
+              "duration": 98,
+              "url": "https://oss-hqwx-video.hqwx.com/1308110_audio-1772703563674.mp3",
+              "resourceId": 1308110,
+              "lessonId": 3771290
+            },
+            {
+              "teacherId": 1000009,
+              "teacherName": "粤语小溏",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260304/671e76c39cf644c2a646fbbf77c183d8.png",
+              "duration": 114,
+              "url": "https://oss-hqwx-video.hqwx.com/1308111_audio-1772703579799.mp3",
+              "resourceId": 1308111,
+              "lessonId": 3771290
+            }
+          ],
+          "inclassExtend": null,
+          "importanceLevel": null,
+          "homework": {
+            "id": 242467,
+            "name": null,
+            "type": 1,
+            "deadline": null,
+            "questionIdList": [
+              3450587
+            ]
+          },
+          "published": true,
+          "homeworkId": 242467
+        },
+        "studyResult": {
+          "lessonId": 3771290,
+          "lessonType": null,
+          "studyLength": null,
+          "studyStatus": 1,
+          "latestStudyLogId": null,
+          "latestStudyTime": 1783418851000,
+          "firstStudyTime": 1783061977000,
+          "homeworkStatus": 1,
+          "readOverConfig": null,
+          "readOverStatus": null,
+          "lastReadOverAnswerId": null,
+          "paperReadOverScore": null,
+          "lastAnswerId": "1405855906911371264",
+          "lastAnswerTime": "2025-08-15 10:09",
+          "lastAnswerTimeLong": 1755223749000,
+          "message": null,
+          "finishPercent": null,
+          "didHomework": true,
+          "isFinished": true
+        },
+        "lessonDataDoc": null,
+        "lessonStudyResultDoc": null,
+        "bisLock": 0,
+        "bisFocus": 1
+      },
+      {
+        "lesson": {
+          "id": 3775553,
+          "name": "人民币汇率制度",
+          "type": 6,
+          "status": 1,
+          "sort": 3,
+          "publishDate": 1772615279000,
+          "stage": null,
+          "textAudioList": [
+            {
+              "teacherId": 1000000,
+              "teacherName": "秀秀",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/deccec4d56714735be0a2d64c557c10d.png",
+              "duration": 207,
+              "url": "https://oss-hqwx-video.hqwx.com/1223355_audio-1772615284407.mp3",
+              "resourceId": 1223355,
+              "lessonId": 3775553
+            },
+            {
+              "teacherId": 1000001,
+              "teacherName": "峰峰",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/8c4f4241425d4136b316fa285c200843.png",
+              "duration": 187,
+              "url": "https://oss-hqwx-video.hqwx.com/1223356_audio-1772615288424.mp3",
+              "resourceId": 1223356,
+              "lessonId": 3775553
+            },
+            {
+              "teacherId": 1000002,
+              "teacherName": "青青",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/168fb2ce8fab44a48310cc640213e651.png",
+              "duration": 183,
+              "url": "https://oss-hqwx-video.hqwx.com/1223357_audio-1763714541000.mp3",
+              "resourceId": 1223357,
+              "lessonId": 3775553
+            },
+            {
+              "teacherId": 1000003,
+              "teacherName": "腾腾",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/528ede478ea74b1da1452a8675b5c813.png",
+              "duration": 177,
+              "url": "https://oss-hqwx-video.hqwx.com/1223358_audio-1763714544716.mp3",
+              "resourceId": 1223358,
+              "lessonId": 3775553
+            },
+            {
+              "teacherId": 1000004,
+              "teacherName": "湾区大叔",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260304/db4df1547cdc48e987f3ccfeb4085110.png",
+              "duration": 239,
+              "url": "https://oss-hqwx-video.hqwx.com/1307260_audio-1772615306285.mp3",
+              "resourceId": 1307260,
+              "lessonId": 3775553
+            },
+            {
+              "teacherId": 1000005,
+              "teacherName": "湾湾小何",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260304/20b86c94adff4cd18e8e0cb1cdaf7d2e.png",
+              "duration": 197,
+              "url": "https://oss-hqwx-video.hqwx.com/1307261_audio-1772615320407.mp3",
+              "resourceId": 1307261,
+              "lessonId": 3775553
+            },
+            {
+              "teacherId": 1000006,
+              "teacherName": "京腔侃爷",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260304/96e76484cf1a44b9af4dee70f375e998.png",
+              "duration": 198,
+              "url": "https://oss-hqwx-video.hqwx.com/1307262_audio-1772615334938.mp3",
+              "resourceId": 1307262,
+              "lessonId": 3775553
+            },
+            {
+              "teacherId": 1000007,
+              "teacherName": "呆萌川妹",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260304/658435167d214090bc4dd54f619374bc.png",
+              "duration": 212,
+              "url": "https://oss-hqwx-video.hqwx.com/1307263_audio-1772615350023.mp3",
+              "resourceId": 1307263,
+              "lessonId": 3775553
+            },
+            {
+              "teacherId": 1000008,
+              "teacherName": "沪普男",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260304/c258753390fe42269b92ad7fc40c183b.png",
+              "duration": 192,
+              "url": "https://oss-hqwx-video.hqwx.com/1307264_audio-1772615380731.mp3",
+              "resourceId": 1307264,
+              "lessonId": 3775553
+            },
+            {
+              "teacherId": 1000009,
+              "teacherName": "粤语小溏",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260304/671e76c39cf644c2a646fbbf77c183d8.png",
+              "duration": 224,
+              "url": "https://oss-hqwx-video.hqwx.com/1307265_audio-1772615407361.mp3",
+              "resourceId": 1307265,
+              "lessonId": 3775553
+            }
+          ],
+          "inclassExtend": null,
+          "importanceLevel": null,
+          "homework": {
+            "id": 244213,
+            "name": null,
+            "type": 1,
+            "deadline": null,
+            "questionIdList": [
+              3450552
+            ]
+          },
+          "published": true,
+          "homeworkId": 244213
+        },
+        "studyResult": {
+          "lessonId": 3775553,
+          "lessonType": null,
+          "studyLength": null,
+          "studyStatus": 1,
+          "latestStudyLogId": null,
+          "latestStudyTime": 1783062294000,
+          "firstStudyTime": 1783062086000,
+          "homeworkStatus": 1,
+          "readOverConfig": null,
+          "readOverStatus": null,
+          "lastReadOverAnswerId": null,
+          "paperReadOverScore": null,
+          "lastAnswerId": "1405867625553477632",
+          "lastAnswerTime": "2025-08-15 10:55",
+          "lastAnswerTimeLong": 1755226513000,
+          "message": null,
+          "finishPercent": null,
+          "didHomework": true,
+          "isFinished": true
+        },
+        "lessonDataDoc": null,
+        "lessonStudyResultDoc": null,
+        "bisLock": 0,
+        "bisFocus": 0
+      },
+      {
+        "lesson": {
+          "id": 3775554,
+          "name": "社会主义公有制的内涵、基本形式及重要作用",
+          "type": 6,
+          "status": 1,
+          "sort": 4,
+          "publishDate": 1772614216000,
+          "stage": null,
+          "textAudioList": [
+            {
+              "teacherId": 1000000,
+              "teacherName": "秀秀",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/deccec4d56714735be0a2d64c557c10d.png",
+              "duration": 231,
+              "url": "https://oss-hqwx-video.hqwx.com/1223359_audio-1772614221117.mp3",
+              "resourceId": 1223359,
+              "lessonId": 3775554
+            },
+            {
+              "teacherId": 1000001,
+              "teacherName": "峰峰",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/8c4f4241425d4136b316fa285c200843.png",
+              "duration": 196,
+              "url": "https://oss-hqwx-video.hqwx.com/1223360_audio-1772614224863.mp3",
+              "resourceId": 1223360,
+              "lessonId": 3775554
+            },
+            {
+              "teacherId": 1000002,
+              "teacherName": "青青",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/168fb2ce8fab44a48310cc640213e651.png",
+              "duration": 195,
+              "url": "https://oss-hqwx-video.hqwx.com/1223361_audio-1755226409653.mp3",
+              "resourceId": 1223361,
+              "lessonId": 3775554
+            },
+            {
+              "teacherId": 1000003,
+              "teacherName": "腾腾",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/528ede478ea74b1da1452a8675b5c813.png",
+              "duration": 189,
+              "url": "https://oss-hqwx-video.hqwx.com/1223362_audio-1755226413710.mp3",
+              "resourceId": 1223362,
+              "lessonId": 3775554
+            },
+            {
+              "teacherId": 1000004,
+              "teacherName": "湾区大叔",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260304/db4df1547cdc48e987f3ccfeb4085110.png",
+              "duration": 267,
+              "url": "https://oss-hqwx-video.hqwx.com/1307238_audio-1772614244169.mp3",
+              "resourceId": 1307238,
+              "lessonId": 3775554
+            },
+            {
+              "teacherId": 1000005,
+              "teacherName": "湾湾小何",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260304/20b86c94adff4cd18e8e0cb1cdaf7d2e.png",
+              "duration": 206,
+              "url": "https://oss-hqwx-video.hqwx.com/1307239_audio-1772614259667.mp3",
+              "resourceId": 1307239,
+              "lessonId": 3775554
+            },
+            {
+              "teacherId": 1000006,
+              "teacherName": "京腔侃爷",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260304/96e76484cf1a44b9af4dee70f375e998.png",
+              "duration": 219,
+              "url": "https://oss-hqwx-video.hqwx.com/1307240_audio-1772614276780.mp3",
+              "resourceId": 1307240,
+              "lessonId": 3775554
+            },
+            {
+              "teacherId": 1000007,
+              "teacherName": "呆萌川妹",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260304/658435167d214090bc4dd54f619374bc.png",
+              "duration": 230,
+              "url": "https://oss-hqwx-video.hqwx.com/1307241_audio-1772614293295.mp3",
+              "resourceId": 1307241,
+              "lessonId": 3775554
+            },
+            {
+              "teacherId": 1000008,
+              "teacherName": "沪普男",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260304/c258753390fe42269b92ad7fc40c183b.png",
+              "duration": 209,
+              "url": "https://oss-hqwx-video.hqwx.com/1307242_audio-1772614325406.mp3",
+              "resourceId": 1307242,
+              "lessonId": 3775554
+            },
+            {
+              "teacherId": 1000009,
+              "teacherName": "粤语小溏",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260304/671e76c39cf644c2a646fbbf77c183d8.png",
+              "duration": 235,
+              "url": "https://oss-hqwx-video.hqwx.com/1307243_audio-1772614354402.mp3",
+              "resourceId": 1307243,
+              "lessonId": 3775554
+            }
+          ],
+          "inclassExtend": null,
+          "importanceLevel": null,
+          "homework": {
+            "id": 244215,
+            "name": null,
+            "type": 1,
+            "deadline": null,
+            "questionIdList": [
+              3604304
+            ]
+          },
+          "published": true,
+          "homeworkId": 244215
+        },
+        "studyResult": {
+          "lessonId": 3775554,
+          "lessonType": null,
+          "studyLength": null,
+          "studyStatus": 1,
+          "latestStudyLogId": null,
+          "latestStudyTime": 1783323110000,
+          "firstStudyTime": 1783062294000,
+          "homeworkStatus": 1,
+          "readOverConfig": null,
+          "readOverStatus": null,
+          "lastReadOverAnswerId": null,
+          "paperReadOverScore": null,
+          "lastAnswerId": "1405868190509449216",
+          "lastAnswerTime": "2025-08-15 10:57",
+          "lastAnswerTimeLong": 1755226664000,
+          "message": null,
+          "finishPercent": null,
+          "didHomework": true,
+          "isFinished": true
+        },
+        "lessonDataDoc": null,
+        "lessonStudyResultDoc": null,
+        "bisLock": 0,
+        "bisFocus": 0
+      },
+      {
+        "lesson": {
+          "id": 3775792,
+          "name": "资源配置的含义及方式",
+          "type": 6,
+          "status": 1,
+          "sort": 5,
+          "publishDate": 1772607618000,
+          "stage": null,
+          "textAudioList": [
+            {
+              "teacherId": 1000000,
+              "teacherName": "秀秀",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/deccec4d56714735be0a2d64c557c10d.png",
+              "duration": 106,
+              "url": "https://oss-hqwx-video.hqwx.com/1223950_audio-1772607622624.mp3",
+              "resourceId": 1223950,
+              "lessonId": 3775792
+            },
+            {
+              "teacherId": 1000001,
+              "teacherName": "峰峰",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/8c4f4241425d4136b316fa285c200843.png",
+              "duration": 92,
+              "url": "https://oss-hqwx-video.hqwx.com/1223951_audio-1772607626175.mp3",
+              "resourceId": 1223951,
+              "lessonId": 3775792
+            },
+            {
+              "teacherId": 1000002,
+              "teacherName": "青青",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/168fb2ce8fab44a48310cc640213e651.png",
+              "duration": 94,
+              "url": "https://oss-hqwx-video.hqwx.com/1223952_audio-1755248024599.mp3",
+              "resourceId": 1223952,
+              "lessonId": 3775792
+            },
+            {
+              "teacherId": 1000003,
+              "teacherName": "腾腾",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/528ede478ea74b1da1452a8675b5c813.png",
+              "duration": 91,
+              "url": "https://oss-hqwx-video.hqwx.com/1223953_audio-1755248028311.mp3",
+              "resourceId": 1223953,
+              "lessonId": 3775792
+            },
+            {
+              "teacherId": 1000004,
+              "teacherName": "湾区大叔",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260304/db4df1547cdc48e987f3ccfeb4085110.png",
+              "duration": 120,
+              "url": "https://oss-hqwx-video.hqwx.com/1307072_audio-1772607636259.mp3",
+              "resourceId": 1307072,
+              "lessonId": 3775792
+            },
+            {
+              "teacherId": 1000005,
+              "teacherName": "湾湾小何",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260304/20b86c94adff4cd18e8e0cb1cdaf7d2e.png",
+              "duration": 99,
+              "url": "https://oss-hqwx-video.hqwx.com/1307073_audio-1772607644420.mp3",
+              "resourceId": 1307073,
+              "lessonId": 3775792
+            },
+            {
+              "teacherId": 1000006,
+              "teacherName": "京腔侃爷",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260304/96e76484cf1a44b9af4dee70f375e998.png",
+              "duration": 102,
+              "url": "https://oss-hqwx-video.hqwx.com/1307074_audio-1772607653745.mp3",
+              "resourceId": 1307074,
+              "lessonId": 3775792
+            },
+            {
+              "teacherId": 1000007,
+              "teacherName": "呆萌川妹",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260304/658435167d214090bc4dd54f619374bc.png",
+              "duration": 109,
+              "url": "https://oss-hqwx-video.hqwx.com/1307075_audio-1772607663370.mp3",
+              "resourceId": 1307075,
+              "lessonId": 3775792
+            },
+            {
+              "teacherId": 1000008,
+              "teacherName": "沪普男",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260304/c258753390fe42269b92ad7fc40c183b.png",
+              "duration": 99,
+              "url": "https://oss-hqwx-video.hqwx.com/1307076_audio-1772607679314.mp3",
+              "resourceId": 1307076,
+              "lessonId": 3775792
+            },
+            {
+              "teacherId": 1000009,
+              "teacherName": "粤语小溏",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260304/671e76c39cf644c2a646fbbf77c183d8.png",
+              "duration": 120,
+              "url": "https://oss-hqwx-video.hqwx.com/1307077_audio-1772607696423.mp3",
+              "resourceId": 1307077,
+              "lessonId": 3775792
+            }
+          ],
+          "inclassExtend": null,
+          "importanceLevel": null,
+          "homework": {
+            "id": 244245,
+            "name": null,
+            "type": 1,
+            "deadline": null,
+            "questionIdList": [
+              3448559
+            ]
+          },
+          "published": true,
+          "homeworkId": 244245
+        },
+        "studyResult": {
+          "lessonId": 3775792,
+          "lessonType": null,
+          "studyLength": null,
+          "studyStatus": 0,
+          "latestStudyLogId": null,
+          "latestStudyTime": 1783063149000,
+          "firstStudyTime": 1783062525000,
+          "homeworkStatus": 1,
+          "readOverConfig": null,
+          "readOverStatus": null,
+          "lastReadOverAnswerId": null,
+          "paperReadOverScore": null,
+          "lastAnswerId": "1405960241733320704",
+          "lastAnswerTime": "2025-08-15 17:01",
+          "lastAnswerTimeLong": 1755248504000,
+          "message": null,
+          "finishPercent": null,
+          "didHomework": true,
+          "isFinished": false
+        },
+        "lessonDataDoc": null,
+        "lessonStudyResultDoc": null,
+        "bisLock": 0,
+        "bisFocus": 0
+      },
+      {
+        "lesson": {
+          "id": 3775794,
+          "name": "价格歧视",
+          "type": 6,
+          "status": 1,
+          "sort": 6,
+          "publishDate": 1773107478000,
+          "stage": null,
+          "textAudioList": [
+            {
+              "teacherId": 1000000,
+              "teacherName": "秀秀",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/deccec4d56714735be0a2d64c557c10d.png",
+              "duration": 215,
+              "url": "https://oss-hqwx-video.hqwx.com/1223954_audio-1773107482289.mp3",
+              "resourceId": 1223954,
+              "lessonId": 3775794
+            },
+            {
+              "teacherId": 1000001,
+              "teacherName": "峰峰",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/8c4f4241425d4136b316fa285c200843.png",
+              "duration": 185,
+              "url": "https://oss-hqwx-video.hqwx.com/1223955_audio-1773107485891.mp3",
+              "resourceId": 1223955,
+              "lessonId": 3775794
+            },
+            {
+              "teacherId": 1000002,
+              "teacherName": "青青",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/168fb2ce8fab44a48310cc640213e651.png",
+              "duration": 185,
+              "url": "https://oss-hqwx-video.hqwx.com/1223956_audio-1763717193946.mp3",
+              "resourceId": 1223956,
+              "lessonId": 3775794
+            },
+            {
+              "teacherId": 1000003,
+              "teacherName": "腾腾",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/528ede478ea74b1da1452a8675b5c813.png",
+              "duration": 174,
+              "url": "https://oss-hqwx-video.hqwx.com/1223957_audio-1763717197265.mp3",
+              "resourceId": 1223957,
+              "lessonId": 3775794
+            },
+            {
+              "teacherId": 1000010,
+              "teacherName": "四川晴儿",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260305/4b6ef8791de249d9be1bed05f3cb24e7.png",
+              "duration": 187,
+              "url": "https://oss-hqwx-video.hqwx.com/1308310_audio-1773107512399.wav",
+              "resourceId": 1308310,
+              "lessonId": 3775794
+            },
+            {
+              "teacherId": 1000011,
+              "teacherName": "四川程川",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260305/28de201c2d704bcaa6dff447ac9ebe44.png",
+              "duration": 223,
+              "url": "https://oss-hqwx-video.hqwx.com/1308311_audio-1773107544900.wav",
+              "resourceId": 1308311,
+              "lessonId": 3775794
+            },
+            {
+              "teacherId": 1000012,
+              "teacherName": "上海阿珍",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260305/ed0f107163394b4584194fc35430862e.png",
+              "duration": 211,
+              "url": "https://oss-hqwx-video.hqwx.com/1308312_audio-1773107575928.wav",
+              "resourceId": 1308312,
+              "lessonId": 3775794
+            },
+            {
+              "teacherId": 1000013,
+              "teacherName": "天津李彼得",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260305/a155587ded0c4c06b85af07bde2c6917.png",
+              "duration": 185,
+              "url": "https://oss-hqwx-video.hqwx.com/1308313_audio-1773107603260.wav",
+              "resourceId": 1308313,
+              "lessonId": 3775794
+            },
+            {
+              "teacherId": 1000014,
+              "teacherName": "粤语阿清",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260305/707da1d25a48449ca295d0a42cdbc361.png",
+              "duration": 227,
+              "url": "https://oss-hqwx-video.hqwx.com/1308314_audio-1773107635293.wav",
+              "resourceId": 1308314,
+              "lessonId": 3775794
+            },
+            {
+              "teacherId": 1000015,
+              "teacherName": "北京晓东",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260305/259046f301bc43328e7b1670bc078fcc.png",
+              "duration": 202,
+              "url": "https://oss-hqwx-video.hqwx.com/1308315_audio-1773107666105.wav",
+              "resourceId": 1308315,
+              "lessonId": 3775794
+            }
+          ],
+          "inclassExtend": null,
+          "importanceLevel": null,
+          "homework": {
+            "id": 244246,
+            "name": null,
+            "type": 1,
+            "deadline": null,
+            "questionIdList": [
+              3450552
+            ]
+          },
+          "published": true,
+          "homeworkId": 244246
+        },
+        "studyResult": {
+          "lessonId": 3775794,
+          "lessonType": null,
+          "studyLength": null,
+          "studyStatus": 0,
+          "latestStudyLogId": null,
+          "latestStudyTime": 1783417270000,
+          "firstStudyTime": 1783062525000,
+          "homeworkStatus": 1,
+          "readOverConfig": null,
+          "readOverStatus": null,
+          "lastReadOverAnswerId": null,
+          "paperReadOverScore": null,
+          "lastAnswerId": "1405961028807049216",
+          "lastAnswerTime": "2025-08-15 17:07",
+          "lastAnswerTimeLong": 1755248822000,
+          "message": null,
+          "finishPercent": null,
+          "didHomework": true,
+          "isFinished": false
+        },
+        "lessonDataDoc": null,
+        "lessonStudyResultDoc": null,
+        "bisLock": 0,
+        "bisFocus": 1
+      },
+      {
+        "lesson": {
+          "id": 3840666,
+          "name": "测试音频1-1",
+          "type": 6,
+          "status": 1,
+          "sort": 7,
+          "publishDate": 1782978425000,
+          "stage": null,
+          "textAudioList": [
+            {
+              "teacherId": 1000000,
+              "teacherName": "秀秀",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/deccec4d56714735be0a2d64c557c10d.png",
+              "duration": 114,
+              "url": "https://oss-hqwx-video.hqwx.com/1287614_audio-1773905578500.mp3",
+              "resourceId": 1287614,
+              "lessonId": 3840666
+            },
+            {
+              "teacherId": 1000001,
+              "teacherName": "峰峰",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/8c4f4241425d4136b316fa285c200843.png",
+              "duration": 102,
+              "url": "https://oss-hqwx-video.hqwx.com/1287615_audio-1773905581615.mp3",
+              "resourceId": 1287615,
+              "lessonId": 3840666
+            },
+            {
+              "teacherId": 1000002,
+              "teacherName": "青青",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/168fb2ce8fab44a48310cc640213e651.png",
+              "duration": 101,
+              "url": "https://oss-hqwx-video.hqwx.com/1287616_audio-1770288531271.mp3",
+              "resourceId": 1287616,
+              "lessonId": 3840666
+            },
+            {
+              "teacherId": 1000003,
+              "teacherName": "腾腾",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/528ede478ea74b1da1452a8675b5c813.png",
+              "duration": 95,
+              "url": "https://oss-hqwx-video.hqwx.com/1287617_audio-1770288535041.mp3",
+              "resourceId": 1287617,
+              "lessonId": 3840666
+            },
+            {
+              "teacherId": 1000010,
+              "teacherName": "四川晴儿",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260305/4b6ef8791de249d9be1bed05f3cb24e7.png",
+              "duration": 96,
+              "url": "https://oss-hqwx-video.hqwx.com/1311851_audio-1773905590812.wav",
+              "resourceId": 1311851,
+              "lessonId": 3840666
+            },
+            {
+              "teacherId": 1000011,
+              "teacherName": "四川程川",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260305/28de201c2d704bcaa6dff447ac9ebe44.png",
+              "duration": 119,
+              "url": "https://oss-hqwx-video.hqwx.com/1311852_audio-1773905602187.wav",
+              "resourceId": 1311852,
+              "lessonId": 3840666
+            },
+            {
+              "teacherId": 1000012,
+              "teacherName": "上海阿珍",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260305/ed0f107163394b4584194fc35430862e.png",
+              "duration": 108,
+              "url": "https://oss-hqwx-video.hqwx.com/1311853_audio-1773905612882.wav",
+              "resourceId": 1311853,
+              "lessonId": 3840666
+            },
+            {
+              "teacherId": 1000013,
+              "teacherName": "天津李彼得",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260305/a155587ded0c4c06b85af07bde2c6917.png",
+              "duration": 98,
+              "url": "https://oss-hqwx-video.hqwx.com/1311854_audio-1773905623150.wav",
+              "resourceId": 1311854,
+              "lessonId": 3840666
+            },
+            {
+              "teacherId": 1000014,
+              "teacherName": "粤语阿清",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260305/707da1d25a48449ca295d0a42cdbc361.png",
+              "duration": 125,
+              "url": "https://oss-hqwx-video.hqwx.com/1311855_audio-1773905635503.wav",
+              "resourceId": 1311855,
+              "lessonId": 3840666
+            },
+            {
+              "teacherId": 1000015,
+              "teacherName": "北京晓东",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260305/259046f301bc43328e7b1670bc078fcc.png",
+              "duration": 107,
+              "url": "https://oss-hqwx-video.hqwx.com/1311856_audio-1773905646164.wav",
+              "resourceId": 1311856,
+              "lessonId": 3840666
+            }
+          ],
+          "inclassExtend": "<p><font color=\"#ef4b3d\">1、红色的字体</font></p><p><font color=\"#fcba03\">2、黄色的<span style=\"font-size: 14px;\">字体</span></font></p><p><font color=\"#20bd43\">3、绿色的<span style=\"font-size: 14px;\">字体</span></font></p><p><font color=\"#277ef0\">4、蓝色的<span style=\"font-size: 14px;\">字体</span></font></p><p><font color=\"#9ca0a3\">5、灰色的<span style=\"font-size: 14px;\">字体</span></font></p><p><span style=\"background-color: rgb(239, 75, 61);\">6、背景色为红色</span></p><p><span style=\"background-color: rgb(39, 126, 240);\">7、背景色为蓝色</span></p><p><b>8、加粗的字体</b></p><p><u>9、下划线的</u><b></b></p>",
+          "importanceLevel": 5,
+          "homework": {
+            "id": 267974,
+            "name": null,
+            "type": 1,
+            "deadline": null,
+            "questionIdList": [
+              3992399
+            ]
+          },
+          "published": true,
+          "homeworkId": 267974
+        },
+        "studyResult": {
+          "lessonId": 3840666,
+          "lessonType": null,
+          "studyLength": null,
+          "studyStatus": 1,
+          "latestStudyLogId": null,
+          "latestStudyTime": 1783651845000,
+          "firstStudyTime": 1783058394000,
+          "homeworkStatus": 1,
+          "readOverConfig": null,
+          "readOverStatus": null,
+          "lastReadOverAnswerId": null,
+          "paperReadOverScore": null,
+          "lastAnswerId": "1499048277974695936",
+          "lastAnswerTime": "2026-04-29 14:02",
+          "lastAnswerTimeLong": 1777442556000,
+          "message": null,
+          "finishPercent": null,
+          "didHomework": true,
+          "isFinished": true
+        },
+        "lessonDataDoc": null,
+        "lessonStudyResultDoc": null,
+        "bisLock": 0,
+        "bisFocus": 0
+      },
+      {
+        "lesson": {
+          "id": 3969901,
+          "name": "岳阳楼记",
+          "type": 6,
+          "status": 1,
+          "sort": 8,
+          "publishDate": 1782978576000,
+          "stage": null,
+          "textAudioList": [
+            {
+              "teacherId": 1000000,
+              "teacherName": "秀秀",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/deccec4d56714735be0a2d64c557c10d.png",
+              "duration": 194,
+              "url": "https://oss-hqwx-video.hqwx.com/1418679_audio-1782978517412.mp3",
+              "resourceId": 1418679,
+              "lessonId": 3969901
+            },
+            {
+              "teacherId": 1000001,
+              "teacherName": "峰峰",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/test/20250801/8c4f4241425d4136b316fa285c200843.png",
+              "duration": 169,
+              "url": "https://oss-hqwx-video.hqwx.com/1418680_audio-1782978520875.mp3",
+              "resourceId": 1418680,
+              "lessonId": 3969901
+            },
+            {
+              "teacherId": 1000010,
+              "teacherName": "四川晴儿",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260305/4b6ef8791de249d9be1bed05f3cb24e7.png",
+              "duration": 162,
+              "url": "https://oss-hqwx-video.hqwx.com/1418681_audio-1782978533887.wav",
+              "resourceId": 1418681,
+              "lessonId": 3969901
+            },
+            {
+              "teacherId": 1000011,
+              "teacherName": "四川程川",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260305/28de201c2d704bcaa6dff447ac9ebe44.png",
+              "duration": 195,
+              "url": "https://oss-hqwx-video.hqwx.com/1418682_audio-1782978551161.wav",
+              "resourceId": 1418682,
+              "lessonId": 3969901
+            },
+            {
+              "teacherId": 1000012,
+              "teacherName": "上海阿珍",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260305/ed0f107163394b4584194fc35430862e.png",
+              "duration": 189,
+              "url": "https://oss-hqwx-video.hqwx.com/1418683_audio-1782978567782.wav",
+              "resourceId": 1418683,
+              "lessonId": 3969901
+            },
+            {
+              "teacherId": 1000013,
+              "teacherName": "天津李彼得",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260305/a155587ded0c4c06b85af07bde2c6917.png",
+              "duration": 166,
+              "url": "https://oss-hqwx-video.hqwx.com/1418684_audio-1782978582749.wav",
+              "resourceId": 1418684,
+              "lessonId": 3969901
+            },
+            {
+              "teacherId": 1000014,
+              "teacherName": "粤语阿清",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260305/707da1d25a48449ca295d0a42cdbc361.png",
+              "duration": 233,
+              "url": "https://oss-hqwx-video.hqwx.com/1418685_audio-1782978604547.wav",
+              "resourceId": 1418685,
+              "lessonId": 3969901
+            },
+            {
+              "teacherId": 1000015,
+              "teacherName": "北京晓东",
+              "teacherPic": "https://oss-hqwx-public.hqwx.com/shareplat2/uat/20260305/259046f301bc43328e7b1670bc078fcc.png",
+              "duration": 186,
+              "url": "https://oss-hqwx-video.hqwx.com/1418686_audio-1782978626880.wav",
+              "resourceId": 1418686,
+              "lessonId": 3969901
+            }
+          ],
+          "inclassExtend": "<p><b>文学常识</b><br/><span style=\"background-color: rgb(239, 75, 61);\">作者介绍</span>：<font color=\"#20bd43\">范仲淹（989 - 1052）</font>，<u>字希文</u>，北宋时期著名的政治家、文学家。他历任多职，为政清廉，体恤民情，刚直不阿，力主改革，屡遭奸佞诬谤，数度被贬。其诗词、散文等作品都堪称北宋文学的瑰宝，深受理学影响，文学作品中常体现出理学的思想精髓。<br/>创作背景：《岳阳楼记》是范仲淹于庆历六年九月十五日（1046 年 10 月 17 日）应好友巴陵郡太守滕子京之请为重修岳阳楼而创作的一篇散文。当时范仲淹正贬官在外，“处江湖之远”，滕子京被贬岳州后，虽心中愤郁，但仍重修岳阳楼，还请范仲淹作记。范仲淹通过这篇文章表达了自己对岳阳楼的赞美之情，同时抒发了忧国忧民的情怀，也希望唤起更多人对国家、民族的关注和思考，传达了自己对理想政治和社会秩序的向往和追求。<br/>字词解释<br/>通假字：“属予作文以记之”中的“属”，通“嘱”，意为嘱托。<br/>古今异义词：<br/>“去国怀乡”中的“去”，古义为离开，今义为前往。<br/>“微斯人，吾谁与归”中的“微”，古义为如果没有，今义为微小。<br/>“越明年”中的“越”，古义为到、及，今义为跨过、越过。<br/>“增其旧制”中的“制”，古义为规模，今义为制度。<br/>“是进亦忧，退亦忧”中的“进”，古义指在朝廷上做官，今义为向前移动；“退”，古义指不在朝廷做官，今义为向后移动。<br/>一词多义：<br/>“或异二者之为”中的“为”，指心理活动（即两种心情）；“若夫霪雨霏霏，连月不开”中的“开”，意为放晴；“至若春和景明”中的“景”，指日光。<br/>重点实词：<br/>“滕子京谪守巴陵郡”中的“谪守”，因罪贬谪流放，出任外官。<br/>“予观夫巴陵胜状”中的“胜状”，胜景，美景；“胜”，美好。<br/>“横无际涯”中的“际涯”，边际。<br/>“朝晖夕阴”中的“晖”，日光。<br/>“此则岳阳楼之大观也”中的“大观”，壮丽景象。<br/>“南极潇湘”中的“极”，至、到达。<br/>“迁客骚人”中的“迁客”，被降职到外地的官员；“迁”，贬谪、降职。<br/>重点虚词：<br/>“予观夫巴陵胜状”中的“夫”，指示代词，那。<br/>“然则何时而乐耶”中的“然则”，虽然如此，那么。</p>",
+          "importanceLevel": 3,
+          "homework": null,
+          "published": true,
+          "homeworkId": null
+        },
+        "studyResult": {
+          "lessonId": 3969901,
+          "lessonType": null,
+          "studyLength": null,
+          "studyStatus": 1,
+          "latestStudyLogId": null,
+          "latestStudyTime": 1783911760000,
+          "firstStudyTime": 1783063191000,
+          "homeworkStatus": 0,
+          "readOverConfig": null,
+          "readOverStatus": null,
+          "lastReadOverAnswerId": null,
+          "paperReadOverScore": null,
+          "lastAnswerId": null,
+          "lastAnswerTime": null,
+          "lastAnswerTimeLong": null,
+          "message": null,
+          "finishPercent": null,
+          "didHomework": false,
+          "isFinished": true
+        },
+        "lessonDataDoc": null,
+        "lessonStudyResultDoc": null,
+        "bisLock": 0,
+        "bisFocus": 1
+      }
+    ],
+    "attachments": {},
+    "success": true
+  }
+}

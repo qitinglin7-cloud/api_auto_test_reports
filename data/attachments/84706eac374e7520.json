@@ -1,0 +1,513 @@
+{
+  "status_code": 200,
+  "body": {
+    "status": {
+      "code": 0,
+      "msg": "OK",
+      "tips": "OK"
+    },
+    "data": [
+      {
+        "categoryId": 5847,
+        "questionId": 3023131,
+        "questionName": "<p>下列有关会计要素的确认和计量的表述中，正确的有（    ）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 28,
+        "answerErrorCount": 30,
+        "rightRate": "17"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023467,
+        "questionName": "<p>下列资产分类或转换的会计处理中，符合会计准则规定的有（    ）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 31,
+        "answerErrorCount": 27,
+        "rightRate": "34"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841842,
+        "questionName": "<p>下列各项关于企业将以现金结算的股份支付修改为权益结算股份支付时会计处理的表述中，正确的有(   )。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 29,
+        "answerErrorCount": 27,
+        "rightRate": "36"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841725,
+        "questionName": "&lt;p&gt;甲公司经营一家会员制健身俱乐部。甲公司与客户签订了为期2年的合同，客户入会之后可以随时在该俱乐部健身。除俱乐部的年费4万元之外，甲公司还向客户收取了100元的入会费，用于补偿俱乐部为客户进行注册登记、准备会籍资料以及制作会员卡等初始活动所花费的成本。甲公司收取的入会费和年费均无须返还。2&times;22年甲公司与500名客户签订了为期2年的合同，一次收取价款2000万元，入会费5万元。不考虑其他因素，下列关于甲公司2&times;22年的会计处理的表述中，正确的是()。&lt;/p&gt;",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 36,
+        "answerErrorCount": 26,
+        "rightRate": "33"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3112829,
+        "questionName": "<p>下列关于会计计量属性的表述中，错误的是（  ）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 29,
+        "answerErrorCount": 25,
+        "rightRate": "38"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3580033,
+        "questionName": "<p>下列迹象中，表明企业的资产或者资产组可能发生减值的有( ) 。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 27,
+        "answerErrorCount": 24,
+        "rightRate": "35"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841726,
+        "questionName": "<p>2×22年1月1日，甲公司授予其200名管理人员每人1万份现金股票增值权，约定自 2×22年1月1日起连续服务满3年，即可按照股价的增长幅度获得现金。该现金股票增值权在2×22年12月31日的公允价值为每份12元，在2×23年12月31日的公允价值为 每份15元。2×23年12月31日，甲公司将授予该批管理人员的现金股票增值权修改为授予每人1万份股票期权，约定该批职工自2×24年1月1日起连续服务满3年，即可以 每股8元的价格购买1万份本公司股票。该项股票期权在2×23年12月31日的公允价值 为每份18元。至2×23年末，该批管理人员无人离职，且甲公司预计等待期内均无人离职。不考虑其他因素。关于上述股份支付，下列各项说法中正确的有(   )。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 31,
+        "answerErrorCount": 24,
+        "rightRate": "45"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841792,
+        "questionName": "&lt;p&gt;A公司为一家电动曲线锯生产企业，生产销售电动曲线锯的同时也提供电动曲线锯的售后维修服务，相关销售政策规定，售出的电动曲线锯如果因产品自身质量问题出现需要维修的，则A 公司提供免费修理；如果因为客户使用不当引发故障需要维修的， 则客户需向A 公司支付相应的维修服务费。2&times;22年&ldquo;双十一&rdquo;期间，为促进某曲线锯的销售，A公司在销售的同时，约定免费提供一年的维修服务，该维修服务既包括自身质量问题的修理，也包括非自身质量问题的修理。假定这两项服务可以合理的区分。不考虑其他因素，下列关于A 公司会计处理的表述中，不正确的有(   )。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 24,
+        "answerErrorCount": 24,
+        "rightRate": "20"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841846,
+        "questionName": "<p>A 公司2×21年7月1日开始执行新修改或颁布的准则，下列经济业务事项中，不违背 可比性要求的有(   )。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 33,
+        "answerErrorCount": 23,
+        "rightRate": "36"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 4035665,
+        "questionName": "下列关于费用与损失的表述中，正确的有（    ）。",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 32,
+        "answerErrorCount": 20,
+        "rightRate": "44"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3580492,
+        "questionName": "<p>甲公司2×22年度财务报告经董事会批准于2×23年3月15日报出，下列有关甲公司会计处理正确的是（ )。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 27,
+        "answerErrorCount": 19,
+        "rightRate": "44"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3107423,
+        "questionName": "<p>下列表述中，符合会计准则规定的有（    ）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 31,
+        "answerErrorCount": 19,
+        "rightRate": "47"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3842026,
+        "questionName": "<p>2×23年初，甲公司向50名高级管理人员每人授予1万份现金股票增值权，约定这些职 工从2×23年1月1日起在该公司连续服务4年即可按照股价的增长幅度获得现金。甲公司估计，该增值权在2×23年末和2×24年末每份的公允价值分别为8元和10元。 2×24年12月31日，甲公司将向职工授予1万份现金股票增值权修改为授予1万股股票 期权，同时约定这些职工从2×25年1月1日起在该公司连续服务3年，即可以每股6元 购买1万股甲公司股票。每份期权在2×24年12月31日的公允价值为12元。假设甲公司预计服务期内没有员工离职，50名高管均在2×27年12月31日行权。不考虑其他因 素。下列关于甲公司该项股份支付会计处理的表述中，正确的有(   )。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 26,
+        "answerErrorCount": 19,
+        "rightRate": "42"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023045,
+        "questionName": "&lt;p&gt;下列会计基本假设中，导致权责发生制会计基础的产生，以及折旧、摊销等会计处理方法运用的基本假设是（ &amp;nbsp; &amp;nbsp;）。&lt;/p&gt;",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 36,
+        "answerErrorCount": 17,
+        "rightRate": "60"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 4035706,
+        "questionName": "&lt;p&gt;下列关于可持续信息的表述中，不正确的有（&amp;nbsp; &amp;nbsp; ）。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 30,
+        "answerErrorCount": 17,
+        "rightRate": "50"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3975642,
+        "questionName": "<p>甲公司为一家上市公司，乙公司是甲公司的子公司2×20年1月1日，甲公司向10名乙公司员工授予其自身股票期权，3年后未离职的每名员工可以购买1万股甲公司股票。授予日，甲公司股票期权的公允价值为每份6元。2×20年7月1日起，2名员工转至甲公司任职。甲公司预计3年内没有员工离职。下列有关股份支付会计处理的表述中，正确的有（    ）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 21,
+        "answerErrorCount": 16,
+        "rightRate": "43"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3975542,
+        "questionName": "<p>公允价值套期中的被套期项目按公允价值计量，体现的企业会计信息质量要求是（　　）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 31,
+        "answerErrorCount": 16,
+        "rightRate": "57"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841752,
+        "questionName": "<p>甲公司于2×23年1月1日以2500万元的价格收购了乙公司80%的股权。在购买日，乙 公司可辨认净资产的公允价值为3000万元，假定乙公司没有负债和或有负债。甲公司 在购买日编制的合并资产负债表中确认商誉100万元、乙公司可辨认净资产3000万元(与账面价值一致)。假定乙公司的所有资产被认定为一个资产组。在2×23年末，该资产组中的可辨认资产本身并不存在减值迹象，但由于该资产组包括商誉，因此，甲公司 至少应当在每年年度终了进行减值测试：甲公司确定该资产组的可收回金额为2800万元，自购买日开始持续计算的可辨认净资产的账面价值为2700万元。假定不考虑其他因素，则2×23年末甲公司合并财务报表中应确认的商誉减值准备为(   )。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 27,
+        "answerErrorCount": 15,
+        "rightRate": "57"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3362710,
+        "questionName": "<p>下列各项资产计提减值后，持有期间内在原计提减值损失范围内可通过损益转回的有（ ）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 24,
+        "answerErrorCount": 15,
+        "rightRate": "46"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 4035664,
+        "questionName": "&lt;p&gt;A公司为甲、乙、丙和丁四公司提供银行借款担保。下列各项中，A公司不应确认负债的有（&amp;nbsp; &amp;nbsp; &amp;nbsp;）。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 27,
+        "answerErrorCount": 14,
+        "rightRate": "53"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023202,
+        "questionName": "<p>在确定存货的可变现净值时，应当考虑的因素有（ &nbsp; &nbsp;）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 17,
+        "answerErrorCount": 13,
+        "rightRate": "28"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3842086,
+        "questionName": "<p>甲公司为上市公司，2×22年1月1日股东大会通过了对管理人员进行股权激励的方案， 该方案主要内容为：向10名公司高级管理人员一共授予600万股限制性股票，授予后锁定3年。2×22年、2×23年、2×24年为申请解锁考核年，每年的解锁比例分别为30%、 30%和40%,即180万股、180万股和240万股。经测算，授于日股票的公允价值为每股15元。高级管理人员认购价格为每股5元，并于2×22年1月10日缴纳。若解锁期内任何一期未达到解锁条件，则当期及后续期间可申请解锁的相应比例的限制性股票不予解锁，由公司按照高级管理人员的认购价格回购注销。假定三年内没有员工离职， 不考虑其他因素，下列说法正确的是(&nbsp; &nbsp; &nbsp;)。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 22,
+        "answerErrorCount": 13,
+        "rightRate": "57"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023414,
+        "questionName": "&lt;p&gt;甲公司为增值税一般纳税人，适用的增值税税率为13％，消费税税率为10％。甲公司2&times;20年度发生的部分交易或事项如下：①1月1日，甲公司接受乙公司以一批原材料进行投资，双方签订投资合同约定该批原材料的价值为100万元，但是该批原材料在当地存在活跃市场，市场价格仅为80万元。甲公司于当日收到该批原材料，并取得乙公司开具的增值税专用发票，发票注明增值税税额为10.4万元，甲公司另支付运输费1.09万元（含税金额，税法允许按照9％计算进项税额抵扣），人员差旅费0.2万元；②12月31日库存商品M，账面余额为500万元，未计提存货跌价准备。库存商品M中，有40％已签订销售合同，合同价款为230万元；另60％未签订合同，按照一般市场价格预计销售价格为290万元。库存商品M的预计销售费用和税金共计25万元。下列各项关于甲公司存货的相关表述中，正确的有（ &amp;nbsp; &amp;nbsp;）。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 16,
+        "answerErrorCount": 13,
+        "rightRate": "19"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841590,
+        "questionName": "<p>A 公司为B 公司的母公司，2×22年7月1日经股东大会批准，A 公司实施一项向B 公司 10名高管人员每人授予2万份B 公司股票期权的股权激励计划，每位高管人员自期权授 予之日起在B 公司连续服务4年，即可以从A 公司购买2万股B 公司股票，购买价格为每股8元。该股票期权在授予日的公允价值为14元/份，2×22年12月31日的公允价值 为16元/份。截至2×22年年末，10名高管人员中没有人离开B 公司，估计未来3.5年 内将有2名高管人员离开B 公司。假定不考虑其他因素，下列关于A 公司和B 公司 2×22年的会计处理正确的有(   )。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 24,
+        "answerErrorCount": 13,
+        "rightRate": "57"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3505623,
+        "questionName": "<p style=\"font-size: medium;white-space: normal;text-indent: 27px\"><span style=\"line-height: 1.5px\">2×15年12月31日，甲公司向乙公司订购的印有甲公司标志、为促销宣传准备的卡通毛绒玩具到货并收到相关购货发票，50万元货款已经支付。该卡通毛绒玩具将按计划于2×16年1月向客户及潜在客户派发。不考虑相关税费及其他因素，下列关于甲公司2×15年对订购卡通毛绒玩具所发生支出的会计处理中，正确的是（  　）。</span></p><p><br/></p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 19,
+        "answerErrorCount": 12,
+        "rightRate": "54"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023425,
+        "questionName": "<p>下列各项中，不应当计入存货成本的有（    ）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 21,
+        "answerErrorCount": 12,
+        "rightRate": "48"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023416,
+        "questionName": "<p>下列业务中，会影响存货账面价值的有（ &nbsp; &nbsp;）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 13,
+        "answerErrorCount": 11,
+        "rightRate": "27"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841730,
+        "questionName": "&lt;p&gt;下列关于企业在向客户销售商品时提供质量保证的会计处理表述中，正确的有(   )。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 31,
+        "answerErrorCount": 11,
+        "rightRate": "67"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023172,
+        "questionName": "<p>采用先进先出法对发出的存货计价时，在存货物价上涨的情况下，下列表述正确的是（    ）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 20,
+        "answerErrorCount": 11,
+        "rightRate": "61"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3379434,
+        "questionName": "<p>甲公司发生的有关交易或事项如下:(1)2x20年3月1日向乙公司销售商品。因乙公司未按合同约定付款，甲公司向法院提起诉讼，要求乙公司支付货款500万元以及违约金30万元。截至2x20年12月31日法院尚未做出判决。(2) 以前年度承接的一项建设和运营高速公路的PPP项目自2*20年1月1日进入运营收费期，政府不对甲公司收取的车辆通行费提供保证，甲公司预计5年后需要对路面进行翻新发生费用600万元，路面翻新不构成单项履约义务。(3)2x20年2月 1日丙公司的银行借款到期，由于丙公司未按期还款。银行提起诉讼要求甲公司履行其担保责任。甲公司预计需要向银行赔偿1000万元，2x21年2月18日法院做出终审判决.判定甲公司向银行赔偿1200万元。甲公司2*20年度财务报告于2x21年3月15日经批准报出。不考虑货币时间价值及其他因素，甲公司2x 20年12月31日的资产负债表中，应确认的负债金额是()。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 18,
+        "answerErrorCount": 11,
+        "rightRate": "42"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841758,
+        "questionName": "<p>甲公司2×21年的财务报告于2×22年3月25日批准对外报出。甲公司的注册会计师在 对甲公司2×21年财务报告进行审计时发现，以前年度少确认10元的借款费用。不考虑其他特殊因素。甲公司将未确认的借款费用直接确认为2×22年的财务费用，体现的 会计信息质量要求是(   )。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 31,
+        "answerErrorCount": 11,
+        "rightRate": "68"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3842104,
+        "questionName": "&lt;p&gt;企业下列关于收入会计处理的表述中，正确的有(    )。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 22,
+        "answerErrorCount": 11,
+        "rightRate": "54"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3975596,
+        "questionName": "<p>甲公司自行改造厂房，并于2×24年末完工投入使用，改造厂房期间发生的成本包括：（1）厂房所占用土地使用权的摊销费用150万元；（2）改造厂房正常消耗工程物资和发生人工成本2 800万元；（3）用于改造厂房的其他工程物资报废净损失20万元；（4）为满足厂房安全生产条件，使用按国家规定提取的安全生产费购买新设备支付400万元。不考虑相关税费及其他因素，甲公司改造厂房新增的固定资产账面价值是（　　）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 14,
+        "answerErrorCount": 11,
+        "rightRate": "27"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841646,
+        "questionName": "&lt;p&gt;关于损失，下列说法中不正确的有(   )。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 19,
+        "answerErrorCount": 11,
+        "rightRate": "48"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3975551,
+        "questionName": "<p>下列各项关于存货跌价准备相关会计处理的表述中，正确的是（　　）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 19,
+        "answerErrorCount": 11,
+        "rightRate": "59"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023093,
+        "questionName": "<p>下列各项关于企业会计信息质量要求的表述中，正确的有（ &nbsp; &nbsp;）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 29,
+        "answerErrorCount": 11,
+        "rightRate": "67"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023667,
+        "questionName": "<p>甲公司与其客户乙公司签订一项合同，合同约定，甲公司于2020年6月30日向乙公司以每件15万元的价格交付100件A产品，每件A产品的成本为10万元，甲公司在乙公司获得商品的控制权时取得合同约定的对价，同时，甲公司所处行业的商业惯例为允许客户在30天内退回任何未使用的产品并获得全额退款，甲公司根据历史经验预计的退货率为5％，并且为收回每件退回的A产品所发生的额外支出为0.5万元，不考虑其他因素，下列关于甲公司的处理正确的是（ &nbsp; &nbsp;）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 27,
+        "answerErrorCount": 11,
+        "rightRate": "67"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023520,
+        "questionName": "<p>以下关于投资性房地产的表述中，不正确的有（ &nbsp; &nbsp;）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 16,
+        "answerErrorCount": 10,
+        "rightRate": "41"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3842088,
+        "questionName": "<p>下列各项中，不应计入其他收益的是(   )。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 10,
+        "answerErrorCount": 10,
+        "rightRate": "0"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3787119,
+        "questionName": "&lt;p&gt;企业通过外购方式取得确认为无形资产的数据资源，下列选项中正确的有（&amp;nbsp; &amp;nbsp;）&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 13,
+        "answerErrorCount": 10,
+        "rightRate": "29"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3342969,
+        "questionName": "<p>2×19年2月1日，甲公司以增发1000万股本公司普通股股票和一台大型设备为对价，取得乙公司20%股权。其中，所发行普通股面值为每股1元，公允价值为每股10元。为增发股份，甲公司向证券承销机构等支付佣金和手续费800万元。用作对价的设备账面价值为1000万元，公允价值为1200万元。当日，乙公司可辨认净资产公允价值为60000万元。假定甲公司能够对乙公司施加重大影响。不考虑其他因素，甲公司该项长期股权投资的初始投资成本为（ &nbsp; ）万元。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 17,
+        "answerErrorCount": 10,
+        "rightRate": "58"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023043,
+        "questionName": "<p>甲公司在编制2×20年度财务报表时，发现2×19年度某项管理用无形资产未摊销，应摊销金额1万元，甲公司将该1万元补记的摊销额计入了2×20年度的管理费用。甲公司2×19年和2×20年实现的净利润分别为10 000万元和12 000万元。不考虑其他因素，甲公司上述会计处理体现的会计信息质量要求是（ &nbsp; &nbsp;）。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 33,
+        "answerErrorCount": 10,
+        "rightRate": "77"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3841845,
+        "questionName": "<p>下列各项有关投资性房地产的后续计量表述中，正确的有(   )。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 12,
+        "answerErrorCount": 10,
+        "rightRate": "41"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3920690,
+        "questionName": "<p>下列各项关于职工薪酬会计处理的表述中，错误的有（ ）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 11,
+        "answerErrorCount": 10,
+        "rightRate": "17"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023573,
+        "questionName": "<p>甲公司系乙公司的母公司。2×19年1月1日，甲公司以银行存款8 100万元从本集团外部购入丙公司60％股权（属于非同一控制下企业合并），能够有权力主导丙公司的相关活动并获得可变回报。购买日丙公司可辨认净资产公允价值为12 000万元，除某项无形资产的公允价值大于账面价值2 000万元外，其他各项可辨认资产、负债的公允价值与账面价值相等。该无形资产自购买日起按5年、直线法摊销，预计净残值为零。2×21年1月1日，乙公司购入甲公司所持丙公司的60％股权，实际支付款项8 000万元，形成同一控制下的企业合并。2×19年1月1日至2×20年12月31日，丙公司实现的净利润为3 000万元，无其他所有者权益变动。不考虑其他因素，乙公司2×21年1月1日购入丙公司股权的初始投资成本为（ &nbsp; &nbsp;）万元。</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 14,
+        "answerErrorCount": 10,
+        "rightRate": "44"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3371695,
+        "questionName": "<p>下列各项有关固定资产会计处理的表述中，错误的有（ &nbsp; &nbsp;）。</p>",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 12,
+        "answerErrorCount": 10,
+        "rightRate": "29"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3975631,
+        "questionName": "<p>2×20年9月30日，甲公司授予员工股票期权，期权的公允价值为每份10元，员工需在甲公司服务至2×23年9月30日，且甲公司盈利目标达标，方可按规定价格行权。2×21年12月31日，期权的公允价值为每份10.5元；同日，甲公司批准通过了对该股权激励计划的修改方案，降低了行权价格，期权的公允价值变为每份11元。对于甲公司实施的上述股权激励计划，下列各项会计处理的表述中，正确的是（    ）</p>",
+        "questionType": 0,
+        "questionTypeName": "单选题",
+        "answerUserCount": 25,
+        "answerErrorCount": 10,
+        "rightRate": "67"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3112842,
+        "questionName": "&lt;p&gt;甲公司记账本位币为人民币，2x19年12月31日，以1000万美元(与公允价值相等)购入乙公司债券，该债券剩余五年到期，合同面值为1250万美元，票面年利率为4.72%，购人时实际年利率为10%每年12月31日收到当年利息，甲公司将该债券分类为以公允价值计量且其变动计人其他综合收益的金融资产。2x19年12月31日至2x20年12月31日，甲公司该债券投资自初始确认后信用风险未显著增加，每年年末按该金融工具未来12个月内预期信用损失的金额计量其损失准备，余额分别为50万美元和40万美元。2x20年12月31 日该债券投资公允价值为1060万美元。有关汇率如下:(1)2x19年12月31日，1美元=6.4元人民币;(2)2x20年12月31日，1美元=6.6元人民币。假定每期确认以记账本位币反映的利息收人时按期末即期汇率折算，不考虑其他因素。甲公司下列会计处理表述中，正确的有( &amp;nbsp;)。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 13,
+        "answerErrorCount": 10,
+        "rightRate": "29"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3975586,
+        "questionName": "&lt;p&gt;2&times;25年12月31日，甲公司存货盘点中发观：（1）原材料收发计量差错盘亏5万元；（2）原材料自然溢余盘盈20万元；（3）因洪水爆发仓库进水导致原材料毁损1 200万元，获得保险公司赔偿800万元，出售毁损原材料取得残值收入200万元；（4）盘盈某产品10万元。假定上述存货盘盈、盘亏金额均为成本，存货盘点发现问题已经甲公司管理层批准处理。不考虑存货跌价准备及其他因素，下列各项关于存货盘盈、盘亏在甲公司2&times;25年度会计处理的表述中，正确的有（　　）。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 16,
+        "answerErrorCount": 9,
+        "rightRate": "44"
+      },
+      {
+        "categoryId": 5847,
+        "questionId": 3023204,
+        "questionName": "&lt;p&gt;下列各项中，在对境外经营财务报表进行折算时选用的有关汇率，符合会计准则规定的有（ &amp;nbsp; &amp;nbsp;）。&lt;/p&gt;",
+        "questionType": 1,
+        "questionTypeName": "多选题",
+        "answerUserCount": 16,
+        "answerErrorCount": 9,
+        "rightRate": "47"
+      }
+    ],
+    "success": true
+  }
+}

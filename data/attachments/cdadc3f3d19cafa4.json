@@ -1,0 +1,37 @@
+{
+  "status_code": 200,
+  "body": {
+    "status": {
+      "code": 0,
+      "msg": "OK",
+      "tips": "OK"
+    },
+    "data": [
+      {
+        "productId": 266768,
+        "stage": 1,
+        "stageName": "qt基础阶段",
+        "startTime": 1780243200000,
+        "endTime": 1782748800000,
+        "recommendStudyLength": 10
+      },
+      {
+        "productId": 266768,
+        "stage": 2,
+        "stageName": "qt强化阶段",
+        "startTime": 1782835200000,
+        "endTime": 1785427200000,
+        "recommendStudyLength": 20
+      },
+      {
+        "productId": 266768,
+        "stage": 3,
+        "stageName": "冲刺",
+        "startTime": 1785513600000,
+        "endTime": 1788105600000,
+        "recommendStudyLength": 20
+      }
+    ],
+    "success": true
+  }
+}
